@@ -1,0 +1,461 @@
+Nom français,Geo Point,Geo Shape,Site
+Pont Alexandre III,"48.8645731054999, 2.3086451463695","{""coordinates"":[2.3086451463695,48.8645731054999],""type"":""Point""}",ALX
+Centre Aquatique,"48.9248196207527, 2.35553674449798","{""coordinates"":[2.35553674449798,48.9248196207527],""type"":""Point""}",AQC
+Centre Aquatique,"48.9190353865793, 2.35439970433837","{""coordinates"":[2.35439970433837,48.9190353865793],""type"":""Point""}",AQC
+Centre Aquatique,"48.9228264729248, 2.35668248737719","{""coordinates"":[2.35668248737719,48.9228264729248],""type"":""Point""}",AQC
+Centre Aquatique,"48.9228904365392, 2.35666444951966","{""coordinates"":[2.35666444951966,48.9228904365392],""type"":""Point""}",AQC
+Centre Aquatique,"48.9247336268675, 2.35491689373673","{""coordinates"":[2.35491689373673,48.9247336268675],""type"":""Point""}",AQC
+Centre Aquatique,"48.924797827362, 2.35532690627801","{""coordinates"":[2.35532690627801,48.924797827362],""type"":""Point""}",AQC
+Centre Aquatique,"48.9230680384985, 2.35452988367758","{""coordinates"":[2.35452988367758,48.9230680384985],""type"":""Point""}",AQC
+Centre Aquatique,"48.9248287460613, 2.35569656463468","{""coordinates"":[2.35569656463468,48.9248287460613],""type"":""Point""}",AQC
+Centre Aquatique,"48.9233405146353, 2.35629155582369","{""coordinates"":[2.35629155582369,48.9233405146353],""type"":""Point""}",AQC
+Centre Aquatique,"48.9231063470612, 2.35473637396374","{""coordinates"":[2.35473637396374,48.9231063470612],""type"":""Point""}",AQC
+Centre Aquatique,"48.9247513389535, 2.35513618993725","{""coordinates"":[2.35513618993725,48.9247513389535],""type"":""Point""}",AQC
+Arena Bercy,"48.8395124030613, 2.3789435152559","{""coordinates"":[2.3789435152559,48.8395124030613],""type"":""Point""}",BCY
+Arena Bercy,"48.8359101057999, 2.37970332478886","{""coordinates"":[2.37970332478886,48.8359101057999],""type"":""Point""}",BCY
+Arena Bercy,"48.8357050211312, 2.37995688361461","{""coordinates"":[2.37995688361461,48.8357050211312],""type"":""Point""}",BCY
+Arena Bercy,"48.8394645537551, 2.37867255006136","{""coordinates"":[2.37867255006136,48.8394645537551],""type"":""Point""}",BCY
+Arena Bercy,"48.8358069464206, 2.37982529216711","{""coordinates"":[2.37982529216711,48.8358069464206],""type"":""Point""}",BCY
+Arena Bercy,"48.8354229279926, 2.38033035469171","{""coordinates"":[2.38033035469171,48.8354229279926],""type"":""Point""}",BCY
+Arena Bercy,"48.8396274953868, 2.38410351559437","{""coordinates"":[2.38410351559437,48.8396274953868],""type"":""Point""}",BCY
+Arena Bercy,"48.8356057243992, 2.38009012588174","{""coordinates"":[2.38009012588174,48.8356057243992],""type"":""Point""}",BCY
+Arena Bercy,"48.8396319727142, 2.37874447882974","{""coordinates"":[2.37874447882974,48.8396319727142],""type"":""Point""}",BCY
+Arena Bercy,"48.8355129498205, 2.38021754087084","{""coordinates"":[2.38021754087084,48.8355129498205],""type"":""Point""}",BCY
+Arena Bercy,"48.8319522614838, 2.38476222794691","{""coordinates"":[2.38476222794691,48.8319522614838],""type"":""Point""}",BCY
+Stade de Bordeaux,"44.9002152030268, -0.561219921291381","{""coordinates"":[-0.561219921291381,44.9002152030268],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8997331949819, -0.560200971565261","{""coordinates"":[-0.560200971565261,44.8997331949819],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8993716369866, -0.560911467939962","{""coordinates"":[-0.560911467939962,44.8993716369866],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.900065743132, -0.560815802027338","{""coordinates"":[-0.560815802027338,44.900065743132],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.9000074367986, -0.560187406550769","{""coordinates"":[-0.560187406550769,44.9000074367986],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8993589712656, -0.561330785742227","{""coordinates"":[-0.561330785742227,44.8993589712656],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8993602369865, -0.561138561108169","{""coordinates"":[-0.561138561108169,44.8993602369865],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.9000986716913, -0.560829327146892","{""coordinates"":[-0.560829327146892,44.9000986716913],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8993166034404, -0.56132531580412","{""coordinates"":[-0.56132531580412,44.8993166034404],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8968448248409, -0.562448240396038","{""coordinates"":[-0.562448240396038,44.8968448248409],""type"":""Point""}",BOR
+Stade de Bordeaux,"44.8994003904872, -0.560169679228731","{""coordinates"":[-0.560169679228731,44.8994003904872],""type"":""Point""}",BOR
+Aéroport de Roissy - Ch. de Gaulle,"49.0143110023559, 2.56529006053813","{""coordinates"":[2.56529006053813,49.0143110023559],""type"":""Point""}",CDG
+Arena Champ-de-Mars,"48.8527828655527, 2.29962059851335","{""coordinates"":[2.29962059851335,48.8527828655527],""type"":""Point""}",CDM
+Arena Champ-de-Mars,"48.8548241430487, 2.3021878756732","{""coordinates"":[2.3021878756732,48.8548241430487],""type"":""Point""}",CDM
+Arena Champ-de-Mars,"48.8502328893975, 2.30204454882699","{""coordinates"":[2.30204454882699,48.8502328893975],""type"":""Point""}",CDM
+Arena Porte de La Chapelle,"48.9003315178124, 2.37048866611361","{""coordinates"":[2.37048866611361,48.9003315178124],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8996896874722, 2.36004471349958","{""coordinates"":[2.36004471349958,48.8996896874722],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8992454156007, 2.36477395975978","{""coordinates"":[2.36477395975978,48.8992454156007],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8995002295586, 2.36022868665278","{""coordinates"":[2.36022868665278,48.8995002295586],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8977270177745, 2.35909511891142","{""coordinates"":[2.35909511891142,48.8977270177745],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8995528150131, 2.36002160710935","{""coordinates"":[2.36002160710935,48.8995528150131],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8976919234448, 2.3711128395087","{""coordinates"":[2.3711128395087,48.8976919234448],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8977231042308, 2.37110488593671","{""coordinates"":[2.37110488593671,48.8977231042308],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8991755103719, 2.3645629630612","{""coordinates"":[2.3645629630612,48.8991755103719],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8994450569295, 2.36326956209187","{""coordinates"":[2.36326956209187,48.8994450569295],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.8998666842057, 2.37011400378589","{""coordinates"":[2.37011400378589,48.8998666842057],""type"":""Point""}",CPL
+Arena Porte de La Chapelle,"48.894551770958, 2.36676601530253","{""coordinates"":[2.36676601530253,48.894551770958],""type"":""Point""}",CPL
+Clichy-sous-Bois,"48.9069472286508, 2.5352320016272","{""coordinates"":[2.5352320016272,48.9069472286508],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9047512056654, 2.54867180399282","{""coordinates"":[2.54867180399282,48.9047512056654],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9069761665785, 2.53529804425081","{""coordinates"":[2.53529804425081,48.9069761665785],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9069704544027, 2.53523386614977","{""coordinates"":[2.53523386614977,48.9069704544027],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9046589664827, 2.55163646751041","{""coordinates"":[2.55163646751041,48.9046589664827],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9049092075947, 2.54873880417659","{""coordinates"":[2.54873880417659,48.9049092075947],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9070034895722, 2.53529987222473","{""coordinates"":[2.53529987222473,48.9070034895722],""type"":""Point""}",CSB
+Clichy-sous-Bois,"48.9069991270678, 2.53523153822355","{""coordinates"":[2.53523153822355,48.9069991270678],""type"":""Point""}",CSB
+Centre National de Tir de Châteauroux,"46.8205963793861, 1.75746343001436","{""coordinates"":[1.75746343001436,46.8205963793861],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8203959380201, 1.75746701186358","{""coordinates"":[1.75746701186358,46.8203959380201],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8203590010333, 1.75746879443239","{""coordinates"":[1.75746879443239,46.8203590010333],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8202585892693, 1.75767488176088","{""coordinates"":[1.75767488176088,46.8202585892693],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8203833971818, 1.75784475790197","{""coordinates"":[1.75784475790197,46.8203833971818],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8154847889662, 1.75464309229239","{""coordinates"":[1.75464309229239,46.8154847889662],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8202546129774, 1.75746522469561","{""coordinates"":[1.75746522469561,46.8202546129774],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8155412725107, 1.75443484110567","{""coordinates"":[1.75443484110567,46.8155412725107],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8204829195694, 1.75774014802656","{""coordinates"":[1.75774014802656,46.8204829195694],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8203494412671, 1.75801105405561","{""coordinates"":[1.75801105405561,46.8203494412671],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8205878142254, 1.75798914298135","{""coordinates"":[1.75798914298135,46.8205878142254],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8202485348244, 1.7580078763302","{""coordinates"":[1.7580078763302,46.8202485348244],""type"":""Point""}",CTX
+Centre National de Tir de Châteauroux,"46.8122897767964, 1.77743248560375","{""coordinates"":[1.77743248560375,46.8122897767964],""type"":""Point""}",CTX
+Paris La Defense Arena,"48.9006812273405, 2.22571053720319","{""coordinates"":[2.22571053720319,48.9006812273405],""type"":""Point""}",DEF
+Paris La Defense Arena,"48.9041207890354, 2.20590696446637","{""coordinates"":[2.20590696446637,48.9041207890354],""type"":""Point""}",DEF
+Paris La Defense Arena,"48.9052303372589, 2.20969782031074","{""coordinates"":[2.20969782031074,48.9052303372589],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8962622079216, 2.22305424869541","{""coordinates"":[2.22305424869541,48.8962622079216],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8960938811571, 2.22657552505067","{""coordinates"":[2.22657552505067,48.8960938811571],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8964176647928, 2.223087400725","{""coordinates"":[2.223087400725,48.8964176647928],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8963905036392, 2.22325730945924","{""coordinates"":[2.22325730945924,48.8963905036392],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8952096771144, 2.22885032432389","{""coordinates"":[2.22885032432389,48.8952096771144],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8956301285402, 2.22866104881429","{""coordinates"":[2.22866104881429,48.8956301285402],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8961917949172, 2.22317926114521","{""coordinates"":[2.22317926114521,48.8961917949172],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.896288544526, 2.22342495649587","{""coordinates"":[2.22342495649587,48.896288544526],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.9209845622304, 2.22773864941754","{""coordinates"":[2.22773864941754,48.9209845622304],""type"":""Point""}",DEF
+Paris La Défense Arena,"48.8962042235992, 2.22329342321193","{""coordinates"":[2.22329342321193,48.8962042235992],""type"":""Point""}",DEF
+Eiffel Champ-de-Mars,"48.854188064779, 2.3030885542398","{""coordinates"":[2.3030885542398,48.854188064779],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.85592340017, 2.30144413064956","{""coordinates"":[2.30144413064956,48.85592340017],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.854158003335, 2.30480776895202","{""coordinates"":[2.30480776895202,48.854158003335],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8544214299054, 2.29683464831121","{""coordinates"":[2.29683464831121,48.8544214299054],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8542293727195, 2.3050148320196","{""coordinates"":[2.3050148320196,48.8542293727195],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8552761829162, 2.3018433540585","{""coordinates"":[2.3018433540585,48.8552761829162],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8542036220992, 2.30496451425641","{""coordinates"":[2.30496451425641,48.8542036220992],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8544547968006, 2.29792063595957","{""coordinates"":[2.29792063595957,48.8544547968006],""type"":""Point""}",ECM
+Eiffel Champ-de-Mars,"48.8542727174323, 2.3049426381735","{""coordinates"":[2.3049426381735,48.8542727174323],""type"":""Point""}",ECM
+Stade Tour Eiffel,"48.8548241430487, 2.3021878756732","{""coordinates"":[2.3021878756732,48.8548241430487],""type"":""Point""}",EIF
+Stade Tour Eiffel,"48.8527828655527, 2.29962059851335","{""coordinates"":[2.29962059851335,48.8527828655527],""type"":""Point""}",EIF
+Stade Tour Eiffel,"48.8542202138139, 2.29644193705278","{""coordinates"":[2.29644193705278,48.8542202138139],""type"":""Point""}",EIF
+Colline d'Elancourt,"48.7903968811535, 1.96403467640448","{""coordinates"":[1.96403467640448,48.7903968811535],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7910453959696, 1.96689659197223","{""coordinates"":[1.96689659197223,48.7910453959696],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7929558574968, 1.9670335204677","{""coordinates"":[1.9670335204677,48.7929558574968],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7913281236456, 1.96601146339274","{""coordinates"":[1.96601146339274,48.7913281236456],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7909535083987, 1.96408563670809","{""coordinates"":[1.96408563670809,48.7909535083987],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7913988060539, 1.96647280333215","{""coordinates"":[1.96647280333215,48.7913988060539],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7915861120516, 1.96603828495538","{""coordinates"":[1.96603828495538,48.7915861120516],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7912821802489, 1.96689122781534","{""coordinates"":[1.96689122781534,48.7912821802489],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7954328081947, 1.97694951055505","{""coordinates"":[1.97694951055505,48.7954328081947],""type"":""Point""}",ELA
+Colline d'Elancourt,"48.7904445912431, 1.96368151832468","{""coordinates"":[1.96368151832468,48.7904445912431],""type"":""Point""}",ELA
+Grand Palais,"48.8645731054999, 2.3086451463695","{""coordinates"":[2.3086451463695,48.8645731054999],""type"":""Point""}",GRP
+Grand Palais-Pont Alexandre III,"48.8646017395909, 2.30921254562484","{""coordinates"":[2.30921254562484,48.8646017395909],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.868850393961, 2.31100426133946","{""coordinates"":[2.31100426133946,48.868850393961],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8688927381848, 2.31060729419404","{""coordinates"":[2.31060729419404,48.8688927381848],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8689774242889, 2.31091842973538","{""coordinates"":[2.31091842973538,48.8689774242889],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8646652603733, 2.31219516193673","{""coordinates"":[2.31219516193673,48.8646652603733],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8653120863258, 2.30156390298508","{""coordinates"":[2.30156390298508,48.8653120863258],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8653403173766, 2.30193941224714","{""coordinates"":[2.30193941224714,48.8653403173766],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8645731054999, 2.3086451463695","{""coordinates"":[2.3086451463695,48.8645731054999],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8652062197438, 2.3018964969029","{""coordinates"":[2.3018964969029,48.8652062197438],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8648628812247, 2.30957732651744","{""coordinates"":[2.30957732651744,48.8648628812247],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8650862373468, 2.30179993737838","{""coordinates"":[2.30179993737838,48.8650862373468],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8651779886175, 2.30166046250961","{""coordinates"":[2.30166046250961,48.8651779886175],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8650092258397, 2.31474016013113","{""coordinates"":[2.31474016013113,48.8650092258397],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.868857451425, 2.31078968388813","{""coordinates"":[2.31078968388813,48.868857451425],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8669976873095, 2.30772225193504","{""coordinates"":[2.30772225193504,48.8669976873095],""type"":""Point""}",GRX
+Grand Palais-Pont Alexandre III,"48.8689516947192, 2.31073564877845","{""coordinates"":[2.31073564877845,48.8689516947192],""type"":""Point""}",GRX
+Hôtel de ville,"48.8542367687932, 2.35647551207879","{""coordinates"":[2.35647551207879,48.8542367687932],""type"":""Point""}",HDV
+Hôtel de ville,"48.8539461591588, 2.35708169215307","{""coordinates"":[2.35708169215307,48.8539461591588],""type"":""Point""}",HDV
+Hôtel de ville,"48.856220400927, 2.35045127080725","{""coordinates"":[2.35045127080725,48.856220400927],""type"":""Point""}",HDV
+Hôtel de ville,"48.8541779411338, 2.35623590251199","{""coordinates"":[2.35623590251199,48.8541779411338],""type"":""Point""}",HDV
+Hôtel de ville,"48.8560380421098, 2.35091171652805","{""coordinates"":[2.35091171652805,48.8560380421098],""type"":""Point""}",HDV
+Hôtel de ville,"48.8541426445301, 2.35663465748828","{""coordinates"":[2.35663465748828,48.8541426445301],""type"":""Point""}",HDV
+Hôtel de ville,"48.8537579097516, 2.35752515042935","{""coordinates"":[2.35752515042935,48.8537579097516],""type"":""Point""}",HDV
+Centre international de radio-télévision,"48.944596993766, 2.42320042808694","{""coordinates"":[2.42320042808694,48.944596993766],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9447966461576, 2.42270153818959","{""coordinates"":[2.42270153818959,48.9447966461576],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9447778551542, 2.42933374697934","{""coordinates"":[2.42933374697934,48.9447778551542],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9441554052121, 2.42221695252764","{""coordinates"":[2.42221695252764,48.9441554052121],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9445828996046, 2.42269438546646","{""coordinates"":[2.42269438546646,48.9445828996046],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9427765942929, 2.42283207424673","{""coordinates"":[2.42283207424673,48.9427765942929],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9448800294504, 2.42313605436439","{""coordinates"":[2.42313605436439,48.9448800294504],""type"":""Point""}",IBC
+Centre international de radio-télévision,"48.9453993680992, 2.42497560226255","{""coordinates"":[2.42497560226255,48.9453993680992],""type"":""Point""}",IBC
+Invalides,"48.8623154555964, 2.30858712009873","{""coordinates"":[2.30858712009873,48.8623154555964],""type"":""Point""}",INV
+Invalides,"48.8623040684711, 2.30863055986669","{""coordinates"":[2.30863055986669,48.8623040684711],""type"":""Point""}",INV
+Invalides,"48.8596179265971, 2.3113765637212","{""coordinates"":[2.3113765637212,48.8596179265971],""type"":""Point""}",INV
+Invalides,"48.8623376736046, 2.30863042893731","{""coordinates"":[2.30863042893731,48.8623376736046],""type"":""Point""}",INV
+Invalides,"48.8623022199421, 2.30855049007388","{""coordinates"":[2.30855049007388,48.8623022199421],""type"":""Point""}",INV
+Invalides,"48.8623448530015, 2.30855382125159","{""coordinates"":[2.30855382125159,48.8623448530015],""type"":""Point""}",INV
+Invalides,"48.8623113266203, 2.30850468921248","{""coordinates"":[2.30850468921248,48.8623113266203],""type"":""Point""}",INV
+Invalides,"48.8650092258397, 2.31474016013113","{""coordinates"":[2.31474016013113,48.8650092258397],""type"":""Point""}",INV
+Site d'escalade du Bourget,"48.9373733397038, 2.41636139777182","{""coordinates"":[2.41636139777182,48.9373733397038],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9364211635798, 2.42023925424803","{""coordinates"":[2.42023925424803,48.9364211635798],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9372820347472, 2.41632348998258","{""coordinates"":[2.41632348998258,48.9372820347472],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9391097294938, 2.42039332380045","{""coordinates"":[2.42039332380045,48.9391097294938],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9376639732984, 2.4193874652223","{""coordinates"":[2.4193874652223,48.9376639732984],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9392952607599, 2.42122418307668","{""coordinates"":[2.42122418307668,48.9392952607599],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.939229484971, 2.42072827175573","{""coordinates"":[2.42072827175573,48.939229484971],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.970755154471, 2.52531901419225","{""coordinates"":[2.52531901419225,48.970755154471],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9360502357163, 2.41669072898311","{""coordinates"":[2.41669072898311,48.9360502357163],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9369055368928, 2.42056137902506","{""coordinates"":[2.42056137902506,48.9369055368928],""type"":""Point""}",LBO
+Site d'escalade du Bourget,"48.9376317281458, 2.41969465451855","{""coordinates"":[2.41969465451855,48.9376317281458],""type"":""Point""}",LBO
+Lycée Blaise PASCAL,"46.7982923728044, 1.71219156840661","{""coordinates"":[1.71219156840661,46.7982923728044],""type"":""Point""}",LBP
+Lycée Blaise PASCAL,"46.7984269000878, 1.71247346032595","{""coordinates"":[1.71247346032595,46.7984269000878],""type"":""Point""}",LBP
+Lycée Blaise PASCAL,"46.7986080671795, 1.71278101947018","{""coordinates"":[1.71278101947018,46.7986080671795],""type"":""Point""}",LBP
+La Concorde,"48.8672907401669, 2.33171376329894","{""coordinates"":[2.33171376329894,48.8672907401669],""type"":""Point""}",LCO
+La Concorde,"48.8662798125197, 2.32299737955473","{""coordinates"":[2.32299737955473,48.8662798125197],""type"":""Point""}",LCO
+La Concorde,"48.8673367113863, 2.33175569476826","{""coordinates"":[2.33175569476826,48.8673367113863],""type"":""Point""}",LCO
+La Concorde,"48.8673220006007, 2.33170537700507","{""coordinates"":[2.33170537700507,48.8673220006007],""type"":""Point""}",LCO
+La Concorde,"48.866145494305, 2.32490376045971","{""coordinates"":[2.32490376045971,48.866145494305],""type"":""Point""}",LCO
+La Concorde,"48.8672392523509, 2.33171760701695","{""coordinates"":[2.33171760701695,48.8672392523509],""type"":""Point""}",LCO
+La Concorde,"48.8672649962656, 2.33165785467318","{""coordinates"":[2.33165785467318,48.8672649962656],""type"":""Point""}",LCO
+La Concorde,"48.8650092258397, 2.31474016013113","{""coordinates"":[2.31474016013113,48.8650092258397],""type"":""Point""}",LCO
+La Concorde,"48.8673072898107, 2.33166624096704","{""coordinates"":[2.33166624096704,48.8673072898107],""type"":""Point""}",LCO
+Le Louvre Coach Parking,"48.8619727245429, 2.33173882210247","{""coordinates"":[2.33173882210247,48.8619727245429],""type"":""Point""}",LCO (OLC)
+La Courneuve,"48.9404322876622, 2.40447048140441","{""coordinates"":[2.40447048140441,48.9404322876622],""type"":""Point""}",LCS
+La Courneuve,"48.9405823233561, 2.40419175900183","{""coordinates"":[2.40419175900183,48.9405823233561],""type"":""Point""}",LCS
+La Courneuve,"48.9405793691077, 2.40441474061019","{""coordinates"":[2.40441474061019,48.9405793691077],""type"":""Point""}",LCS
+La Courneuve,"48.9402234976308, 2.40484344180942","{""coordinates"":[2.40484344180942,48.9402234976308],""type"":""Point""}",LCS
+La Courneuve,"48.9403759246257, 2.40434095067075","{""coordinates"":[2.40434095067075,48.9403759246257],""type"":""Point""}",LCS
+La Courneuve,"48.9401980069917, 2.40496748638451","{""coordinates"":[2.40496748638451,48.9401980069917],""type"":""Point""}",LCS
+La Courneuve,"48.9402962469329, 2.40466265258607","{""coordinates"":[2.40466265258607,48.9402962469329],""type"":""Point""}",LCS
+La Courneuve,"48.940361832115, 2.40455565293956","{""coordinates"":[2.40455565293956,48.940361832115],""type"":""Point""}",LCS
+La Courneuve,"48.9405254776423, 2.4043463925101","{""coordinates"":[2.4043463925101,48.9405254776423],""type"":""Point""}",LCS
+Le Golf National,"48.7561427559053, 2.07642006126232","{""coordinates"":[2.07642006126232,48.7561427559053],""type"":""Point""}",LGN
+Le Golf National,"48.7560293964427, 2.07631011958095","{""coordinates"":[2.07631011958095,48.7560293964427],""type"":""Point""}",LGN
+Le Golf National,"48.7560133824342, 2.07615367704952","{""coordinates"":[2.07615367704952,48.7560133824342],""type"":""Point""}",LGN
+Le Golf National,"48.7546053649368, 2.07534433452933","{""coordinates"":[2.07534433452933,48.7546053649368],""type"":""Point""}",LGN
+Le Golf National,"48.7546557625515, 2.07513512157705","{""coordinates"":[2.07513512157705,48.7546557625515],""type"":""Point""}",LGN
+Le Golf National,"48.7561386701924, 2.0766574618341","{""coordinates"":[2.0766574618341,48.7561386701924],""type"":""Point""}",LGN
+Le Golf National,"48.7562098227156, 2.0766696371185","{""coordinates"":[2.0766696371185,48.7562098227156],""type"":""Point""}",LGN
+Le Golf National,"48.7562442391884, 2.07652573559018","{""coordinates"":[2.07652573559018,48.7562442391884],""type"":""Point""}",LGN
+Le Golf National,"48.7559550410831, 2.07626665635801","{""coordinates"":[2.07626665635801,48.7559550410831],""type"":""Point""}",LGN
+Le Golf National,"48.7635630075323, 2.08914485520552","{""coordinates"":[2.08914485520552,48.7635630075323],""type"":""Point""}",LGN
+Stade Pierre Mauroy,"50.6098663924365, 3.13076855988251","{""coordinates"":[3.13076855988251,50.6098663924365],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.6128872630011, 3.13026874862839","{""coordinates"":[3.13026874862839,50.6128872630011],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.6100524913199, 3.13094737327957","{""coordinates"":[3.13094737327957,50.6100524913199],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.6098663928173, 3.13099028882066","{""coordinates"":[3.13099028882066,50.6098663928173],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.610029795695, 3.13067557608621","{""coordinates"":[3.13067557608621,50.610029795695],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.6097937681248, 3.13053252567461","{""coordinates"":[3.13053252567461,50.6097937681248],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.6067658979003, 3.12757608603776","{""coordinates"":[3.12757608603776,50.6067658979003],""type"":""Point""}",LIL
+Stade Pierre Mauroy,"50.609781932447, 3.13052226820085","{""coordinates"":[3.13052226820085,50.609781932447],""type"":""Point""}",LIL
+Stade de Lyon,"45.763609813608, 4.98102446995315","{""coordinates"":[4.98102446995315,45.763609813608],""type"":""Point""}",LYO
+Stade de Lyon,"45.7661272583945, 4.98157997020502","{""coordinates"":[4.98157997020502,45.7661272583945],""type"":""Point""}",LYO
+Stade de Lyon,"45.7646428495698, 4.98142797972286","{""coordinates"":[4.98142797972286,45.7646428495698],""type"":""Point""}",LYO
+Stade de Lyon,"45.7651285535068, 4.9805747535387","{""coordinates"":[4.9805747535387,45.7651285535068],""type"":""Point""}",LYO
+Stade de Lyon,"45.7627165153327, 4.98427144128218","{""coordinates"":[4.98427144128218,45.7627165153327],""type"":""Point""}",LYO
+Stade de Lyon,"45.7650312213305, 4.98047590803665","{""coordinates"":[4.98047590803665,45.7650312213305],""type"":""Point""}",LYO
+Stade de Lyon,"45.763604823532, 4.98057743552793","{""coordinates"":[4.98057743552793,45.763604823532],""type"":""Point""}",LYO
+Stade de Lyon,"45.7625423254829, 4.98404860463719","{""coordinates"":[4.98404860463719,45.7625423254829],""type"":""Point""}",LYO
+Stade de Lyon,"45.7634863163275, 4.9809118173237","{""coordinates"":[4.9809118173237,45.7634863163275],""type"":""Point""}",LYO
+Stade de Lyon,"45.764931462995, 4.9805747529587","{""coordinates"":[4.9805747529587,45.764931462995],""type"":""Point""}",LYO
+Stade de Lyon,"45.7648229378574, 4.98057475237504","{""coordinates"":[4.98057475237504,45.7648229378574],""type"":""Point""}",LYO
+Stade de Lyon,"45.7636754232102, 4.98449527213434","{""coordinates"":[4.98449527213434,45.7636754232102],""type"":""Point""}",LYO
+Marina de Marseille,"43.2564947525906, 5.37693402247721","{""coordinates"":[5.37693402247721,43.2564947525906],""type"":""Point""}",MAM
+Marina de Marseille,"43.2557081650853, 5.3770842258167","{""coordinates"":[5.3770842258167,43.2557081650853],""type"":""Point""}",MAM
+Marina de Marseille,"43.2558423016753, 5.3773274124886","{""coordinates"":[5.3773274124886,43.2558423016753],""type"":""Point""}",MAM
+Marina de Marseille,"43.2555353209759, 5.37711768679187","{""coordinates"":[5.37711768679187,43.2555353209759],""type"":""Point""}",MAM
+Marina de Marseille,"43.260443168255, 5.38558861685206","{""coordinates"":[5.38558861685206,43.260443168255],""type"":""Point""}",MAM
+Marina de Marseille,"43.2558407807543, 5.37702551570197","{""coordinates"":[5.37702551570197,43.2558407807543],""type"":""Point""}",MAM
+Marina de Marseille,"43.2683535523173, 5.37084004278613","{""coordinates"":[5.37084004278613,43.2683535523173],""type"":""Point""}",MAM
+Marina de Marseille,"43.2681651634148, 5.37115610458993","{""coordinates"":[5.37115610458993,43.2681651634148],""type"":""Point""}",MAM
+Marina de Marseille,"43.2640012038369, 5.37356195784171","{""coordinates"":[5.37356195784171,43.2640012038369],""type"":""Point""}",MAM
+Marina de Marseille,"43.255917484129, 5.37727698694752","{""coordinates"":[5.37727698694752,43.255917484129],""type"":""Point""}",MAM
+Marina de Marseille,"43.2560764605904, 5.37765985282469","{""coordinates"":[5.37765985282469,43.2560764605904],""type"":""Point""}",MAM
+Marina de Marseille,"43.2680753212493, 5.37108351901097","{""coordinates"":[5.37108351901097,43.2680753212493],""type"":""Point""}",MAM
+Stade Michon,"45.4370205455258, 4.3650969554582","{""coordinates"":[4.3650969554582,45.4370205455258],""type"":""Point""}",MIC
+,"48.9060425559333, 2.36478521268416","{""coordinates"":[2.36478521268416,48.9060425559333],""type"":""Point""}",MPC PARA
+,"48.9060425559333, 2.36462070375546","{""coordinates"":[2.36462070375546,48.9060425559333],""type"":""Point""}",MPC PARA
+,"48.9059156194381, 2.36462785620369","{""coordinates"":[2.36462785620369,48.9059156194381],""type"":""Point""}",MPC PARA
+,"48.9059156194381, 2.36482097525275","{""coordinates"":[2.36482097525275,48.9059156194381],""type"":""Point""}",MPC PARA
+Stade de Marseille,"43.2689290495324, 5.39425930218304",0,MRS
+Stade de Marseille,"43.2708859593837, 5.39805909922468","{""coordinates"":[5.39805909922468,43.2708859593837],""type"":""Point""}",MRS
+Stade de Marseille,"43.2679908281128, 5.3973545197052","{""coordinates"":[5.3973545197052,43.2679908281128],""type"":""Point""}",MRS
+Stade de Marseille,"43.2689044277837, 5.39426773859663","{""coordinates"":[5.39426773859663,43.2689044277837],""type"":""Point""}",MRS
+Stade de Marseille,"43.2706504046459, 5.39908358559424","{""coordinates"":[5.39908358559424,43.2706504046459],""type"":""Point""}",MRS
+Stade de Marseille,"43.2707752910117, 5.39451500663056","{""coordinates"":[5.39451500663056,43.2707752910117],""type"":""Point""}",MRS
+Stade de Marseille,"43.2591868222052, 5.37559235123393","{""coordinates"":[5.37559235123393,43.2591868222052],""type"":""Point""}",MRS
+Stade de Marseille,"43.2727712009107, 5.39604565641865","{""coordinates"":[5.39604565641865,43.2727712009107],""type"":""Point""}",MRS
+Stade de Marseille,"43.2681387153589, 5.39715966672308","{""coordinates"":[5.39715966672308,43.2681387153589],""type"":""Point""}",MRS
+Stade de Marseille,"43.268885105719, 5.39433619456462","{""coordinates"":[5.39433619456462,43.268885105719],""type"":""Point""}",MRS
+Stade de Marseille,"43.2705155930869, 5.39472114640718","{""coordinates"":[5.39472114640718,43.2705155930869],""type"":""Point""}",MRS
+Stade de la Beaujoire,"47.2563874914255, -1.52808548990885","{""coordinates"":[-1.52808548990885,47.2563874914255],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2563195268575, -1.52785124386716","{""coordinates"":[-1.52785124386716,47.2563195268575],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2570330708425, -1.52749032340124","{""coordinates"":[-1.52749032340124,47.2570330708425],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2566120147506, -1.52525397139797","{""coordinates"":[-1.52525397139797,47.2566120147506],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2564584891976, -1.52836801622548","{""coordinates"":[-1.52836801622548,47.2564584891976],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2568195467992, -1.52806850244479","{""coordinates"":[-1.52806850244479,47.2568195467992],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2566429626012, -1.52800412942814","{""coordinates"":[-1.52800412942814,47.2566429626012],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2564070788443, -1.52789851622894","{""coordinates"":[-1.52789851622894,47.2564070788443],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.2566326473161, -1.52822228224589","{""coordinates"":[-1.52822228224589,47.2566326473161],""type"":""Point""}",NAN
+Stade de la Beaujoire,"47.257485828061, -1.52302237246158","{""coordinates"":[-1.52302237246158,47.257485828061],""type"":""Point""}",NAN
+Stade de Nice,"43.7046850882699, 7.19126222538804","{""coordinates"":[7.19126222538804,43.7046850882699],""type"":""Point""}",NIC
+Stade de Nice,"43.7047704046113, 7.19106374143306","{""coordinates"":[7.19106374143306,43.7047704046113],""type"":""Point""}",NIC
+Stade de Nice,"43.7051224133115, 7.19153104454105","{""coordinates"":[7.19153104454105,43.7051224133115],""type"":""Point""}",NIC
+Stade de Nice,"43.7045021302382, 7.1926027987879","{""coordinates"":[7.1926027987879,43.7045021302382],""type"":""Point""}",NIC
+Stade de Nice,"43.707808470607, 7.19630998954918","{""coordinates"":[7.19630998954918,43.707808470607],""type"":""Point""}",NIC
+Stade de Nice,"43.7048947950828, 7.19099143773973","{""coordinates"":[7.19099143773973,43.7048947950828],""type"":""Point""}",NIC
+Stade de Nice,"43.705913708079, 7.19205920420932","{""coordinates"":[7.19205920420932,43.705913708079],""type"":""Point""}",NIC
+Stade de Nice,"43.705960889444, 7.1910614224558","{""coordinates"":[7.1910614224558,43.705960889444],""type"":""Point""}",NIC
+Stade de Nice,"43.7077876370276, 7.19339721873533","{""coordinates"":[7.19339721873533,43.7077876370276],""type"":""Point""}",NIC
+Stade de Nice,"43.7046158430429, 7.19105046505382","{""coordinates"":[7.19105046505382,43.7046158430429],""type"":""Point""}",NIC
+Stade de Nice,"43.7087962685928, 7.19647375706539","{""coordinates"":[7.19647375706539,43.7087962685928],""type"":""Point""}",NIC
+Stade de Nice,"43.704615885153, 7.19198767841732","{""coordinates"":[7.19198767841732,43.704615885153],""type"":""Point""}",NIC
+Arena Paris Nord,"48.9692044736725, 2.51399742689929","{""coordinates"":[2.51399742689929,48.9692044736725],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9709256021493, 2.52600701926965","{""coordinates"":[2.52600701926965,48.9709256021493],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9712707017419, 2.52614291868309","{""coordinates"":[2.52614291868309,48.9712707017419],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9698374692605, 2.51413019645458","{""coordinates"":[2.51413019645458,48.9698374692605],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9707906148133, 2.52592118816458","{""coordinates"":[2.52592118816458,48.9707906148133],""type"":""Point""}",NPA
+Arena Paris Nord,"48.971048852259, 2.52606423883744","{""coordinates"":[2.52606423883744,48.971048852259],""type"":""Point""}",NPA
+Arena Paris Nord,"48.969663741304, 2.51405867071577","{""coordinates"":[2.51405867071577,48.969663741304],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9691783551718, 2.51353563941063","{""coordinates"":[2.51353563941063,48.9691783551718],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9683824794724, 2.5144064628292","{""coordinates"":[2.5144064628292,48.9683824794724],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9706023086669, 2.51434218811596","{""coordinates"":[2.51434218811596,48.9706023086669],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9682772676075, 2.51514423379992","{""coordinates"":[2.51514423379992,48.9682772676075],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9686448380839, 2.51438053434274","{""coordinates"":[2.51438053434274,48.9686448380839],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9709068214728, 2.52588363688197","{""coordinates"":[2.52588363688197,48.9709068214728],""type"":""Point""}",NPA
+Arena Paris Nord,"48.97114040889, 2.52602668868417","{""coordinates"":[2.52602668868417,48.97114040889],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9690339729525, 2.51408191618591","{""coordinates"":[2.51408191618591,48.9690339729525],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9688936959288, 2.51423748428763","{""coordinates"":[2.51423748428763,48.9688936959288],""type"":""Point""}",NPA
+Arena Paris Nord,"48.970782397603, 2.52580495883615","{""coordinates"":[2.52580495883615,48.970782397603],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9713101040917, 2.52634110673122","{""coordinates"":[2.52634110673122,48.9713101040917],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9734720851618, 2.51573695054632","{""coordinates"":[2.51573695054632,48.9734720851618],""type"":""Point""}",NPA
+Arena Paris Nord,"48.968103941945, 2.51431221214091","{""coordinates"":[2.51431221214091,48.968103941945],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9693632376796, 2.51401575455828","{""coordinates"":[2.51401575455828,48.9693632376796],""type"":""Point""}",NPA
+Arena Paris Nord,"48.9734659196925, 2.51574004151574","{""coordinates"":[2.51574004151574,48.9734659196925],""type"":""Point""}",NPA
+Club Olympique,"48.8651463264697, 2.31746606403107","{""coordinates"":[2.31746606403107,48.8651463264697],""type"":""Point""}",OLC
+Club Olympique,"48.8651057998957, 2.31558666025846","{""coordinates"":[2.31558666025846,48.8651057998957],""type"":""Point""}",OLC
+Club Olympique,"48.8647837993854, 2.31602612077559","{""coordinates"":[2.31602612077559,48.8647837993854],""type"":""Point""}",OLC
+Club Olympique,"48.8647367472451, 2.31435957491493","{""coordinates"":[2.31435957491493,48.8647367472451],""type"":""Point""}",OLC
+TPC Place Blanche - P3 dépose et reprise,"48.9226248147445, 2.34046345530947","{""coordinates"":[2.34046345530947,48.9226248147445],""type"":""Point""}",OLV
+TPC Place Blanche - P6 dépose et reprise,"48.9225770034795, 2.34056531081905","{""coordinates"":[2.34056531081905,48.9225770034795],""type"":""Point""}",OLV
+V. Oly/Para - Entrée Principale,"48.9269116375496, 2.33778649557147","{""coordinates"":[2.33778649557147,48.9269116375496],""type"":""Point""}",OLV
+V. Oly/Para - Entrée Principale TX Staging,"48.9267507223021, 2.33762410362336","{""coordinates"":[2.33762410362336,48.9267507223021],""type"":""Point""}",OLV
+V. Oly/Para - LOG Compound Cachin,"48.9187879259704, 2.33696926112051","{""coordinates"":[2.33696926112051,48.9187879259704],""type"":""Point""}",OLV
+V. Oly/Para - LOG Compound Île,"48.9271471569791, 2.33558940663294","{""coordinates"":[2.33558940663294,48.9271471569791],""type"":""Point""}",OLV
+V. Oly/Para - OGER (P4),"48.9191102401386, 2.33576257138238","{""coordinates"":[2.33576257138238,48.9191102401386],""type"":""Point""}",OLV
+V. Oly/Para - OGER (P6 RateCard),"48.9191408615051, 2.33553474000683","{""coordinates"":[2.33553474000683,48.9191408615051],""type"":""Point""}",OLV
+V. Oly/Para - Parking Entrée Principale (P1),"48.926160790057, 2.33713300314999","{""coordinates"":[2.33713300314999,48.926160790057],""type"":""Point""}",OLV
+V. Oly/Para - Parking Entrée Principale (P2),"48.9261429069791, 2.33710928438374","{""coordinates"":[2.33710928438374,48.9261429069791],""type"":""Point""}",OLV
+V. Oly/Para - Parking Entrée Principale (P5),"48.9261596217779, 2.33710009145377","{""coordinates"":[2.33710009145377,48.9261596217779],""type"":""Point""}",OLV
+V. Oly/Para - Parking Neruda (P3 CNO/CNP),"48.9174778194133, 2.33716089815427","{""coordinates"":[2.33716089815427,48.9174778194133],""type"":""Point""}",OLV
+Village Oly et Para - Parking Carré Pleyel,"48.9197131515415, 2.3458410842961","{""coordinates"":[2.3458410842961,48.9197131515415],""type"":""Point""}",OLV
+Village Oly et Paralympic - Polyclinic (PX),"48.9192236801417, 2.33639803922133","{""coordinates"":[2.33639803922133,48.9192236801417],""type"":""Point""}",OLV
+Village Olympique et Paralympique - Centrale Mobilité 2,"48.9260156254861, 2.33452474613701","{""coordinates"":[2.33452474613701,48.9260156254861],""type"":""Point""}",OLV
+Entrée Principale - P3 CNO/CNP dépose et reprise,"48.9261804632936, 2.33712377253357","{""coordinates"":[2.33712377253357,48.9261804632936],""type"":""Point""}",OLV PLV
+Entrée Principale - P6 CNO/CNP dépose et reprise,"48.926117018822, 2.33706471436422","{""coordinates"":[2.33706471436422,48.926117018822],""type"":""Point""}",OLV PLV
+Aéroport d'Orly,"48.7385752700723, 2.3663357636497","{""coordinates"":[2.3663357636497,48.7385752700723],""type"":""Point""}",ORY
+Village Olympique Châteauroux,"46.8246901280565, 1.75978155927144","{""coordinates"":[1.75978155927144,46.8246901280565],""type"":""Point""}",OVC
+Village Olympique Châteauroux,"46.8254841764276, 1.75919326151516","{""coordinates"":[1.75919326151516,46.8254841764276],""type"":""Point""}",OVC
+Village Olympique Châteauroux,"46.8257245906801, 1.75913961829819","{""coordinates"":[1.75913961829819,46.8257245906801],""type"":""Point""}",OVC
+Village Olympique Lille Métropole,"50.630070179146, 3.1344625443845","{""coordinates"":[3.1344625443845,50.630070179146],""type"":""Point""}",OVL
+Village Olympique Lille Métropole,"50.6298859044827, 3.13429655951215","{""coordinates"":[3.13429655951215,50.6298859044827],""type"":""Point""}",OVL
+Village Olympique Lille Métropole,"50.6299136933529, 3.13432436252247","{""coordinates"":[3.13432436252247,50.6299136933529],""type"":""Point""}",OVL
+Village Olympique Lille Métropole,"50.6298115872981, 3.1345186761398","{""coordinates"":[3.1345186761398,50.6298115872981],""type"":""Point""}",OVL
+Marina de Marseille,"43.2549483294909, 5.37711678170356","{""coordinates"":[5.37711678170356,43.2549483294909],""type"":""Point""}",OVM
+Village Oly Marseille,"43.255304720908, 5.37780267406848","{""coordinates"":[5.37780267406848,43.255304720908],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.2546776185403, 5.3783355186138","{""coordinates"":[5.3783355186138,43.2546776185403],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.254743330811, 5.37792697017072","{""coordinates"":[5.37792697017072,43.254743330811],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.2546591770471, 5.37917279085383","{""coordinates"":[5.37917279085383,43.2546591770471],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.2546532774813, 5.37866817624609","{""coordinates"":[5.37866817624609,43.2546532774813],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.255164658913, 5.38208185472042","{""coordinates"":[5.38208185472042,43.255164658913],""type"":""Point""}",OVM
+Village Olympique Marseille,"43.2559074769579, 5.37879213788189","{""coordinates"":[5.37879213788189,43.2559074769579],""type"":""Point""}",OVM
+Parc des Princes,"48.838861686237, 2.25352960866684","{""coordinates"":[2.25352960866684,48.838861686237],""type"":""Point""}",PDP
+Parc des Princes,"48.8382418248658, 2.25237841408035","{""coordinates"":[2.25237841408035,48.8382418248658],""type"":""Point""}",PDP
+Parc des Princes,"48.844306611857, 2.25220652451874","{""coordinates"":[2.25220652451874,48.844306611857],""type"":""Point""}",PDP
+Parc des Princes,"48.8442880967935, 2.25227060705414","{""coordinates"":[2.25227060705414,48.8442880967935],""type"":""Point""}",PDP
+Parc des Princes,"48.8423264899047, 2.25188533034739","{""coordinates"":[2.25188533034739,48.8423264899047],""type"":""Point""}",PDP
+Parc des Princes,"48.8442578034753, 2.25224300598899","{""coordinates"":[2.25224300598899,48.8442578034753],""type"":""Point""}",PDP
+Parc des Princes,"48.844719292618, 2.25246872018512","{""coordinates"":[2.25246872018512,48.844719292618],""type"":""Point""}",PDP
+Parc des Princes,"48.8442736961839, 2.25220965049607","{""coordinates"":[2.25220965049607,48.8442736961839],""type"":""Point""}",PDP
+Parc des Princes,"48.8397275853512, 2.25209043683764","{""coordinates"":[2.25209043683764,48.8397275853512],""type"":""Point""}",PDP
+Parc des Princes,"48.8423408910742, 2.25193222000744","{""coordinates"":[2.25193222000744,48.8423408910742],""type"":""Point""}",PDP
+Parc des Princes,"48.8443096977002, 2.25232062269153","{""coordinates"":[2.25232062269153,48.8443096977002],""type"":""Point""}",PDP
+Parc des Princes,"48.8496804028869, 2.25796757249403","{""coordinates"":[2.25796757249403,48.8496804028869],""type"":""Point""}",PDP
+Hôtel de la Famille Para - Hyatt,"48.8785973493339, 2.28568732813979","{""coordinates"":[2.28568732813979,48.8785973493339],""type"":""Point""}",PFH
+PESI,"46.8246901280565, 1.75978155927144","{""coordinates"":[1.75978155927144,46.8246901280565],""type"":""Point""}",PSI
+PESI,"46.8245346579143, 1.75834410484554","{""coordinates"":[1.75834410484554,46.8245346579143],""type"":""Point""}",PSI
+Stade Roland-Garros,"48.8495009527236, 2.25799738681106","{""coordinates"":[2.25799738681106,48.8495009527236],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8478172078461, 2.24473205827744","{""coordinates"":[2.24473205827744,48.8478172078461],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8477799139875, 2.24448553409062","{""coordinates"":[2.24448553409062,48.8477799139875],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8478854558912, 2.24500027852911","{""coordinates"":[2.24500027852911,48.8478854558912],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8478972230243, 2.24484292237491","{""coordinates"":[2.24484292237491,48.8478972230243],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.850575435125, 2.24852701941109","{""coordinates"":[2.24852701941109,48.850575435125],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.848881114139, 2.24467699322022","{""coordinates"":[2.24467699322022,48.848881114139],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8478077938774, 2.2449001442271","{""coordinates"":[2.2449001442271,48.8478077938774],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8443095820436, 2.25228055692423","{""coordinates"":[2.25228055692423,48.8443095820436],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8478133788018, 2.24505232249526","{""coordinates"":[2.24505232249526,48.8478133788018],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8479704916139, 2.24478189133045","{""coordinates"":[2.24478189133045,48.8479704916139],""type"":""Point""}",RGA
+Stade Roland-Garros,"48.8447357674725, 2.25258316132138","{""coordinates"":[2.25258316132138,48.8447357674725],""type"":""Point""}",RGA
+Arena Paris Sud 1,"48.8309052772531, 2.28386156794632","{""coordinates"":[2.28386156794632,48.8309052772531],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309566458121, 2.28374569003404","{""coordinates"":[2.28374569003404,48.8309566458121],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8322286798932, 2.28086951648045","{""coordinates"":[2.28086951648045,48.8322286798932],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309016934001, 2.28388068182876","{""coordinates"":[2.28388068182876,48.8309016934001],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309626189004, 2.28372299229864","{""coordinates"":[2.28372299229864,48.8309626189004],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8258997852679, 2.28912203245653","{""coordinates"":[2.28912203245653,48.8258997852679],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309196126649, 2.28383409174031","{""coordinates"":[2.28383409174031,48.8309196126649],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8331713122254, 2.2826452265635","{""coordinates"":[2.2826452265635,48.8331713122254],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8273593827234, 2.28920574125883","{""coordinates"":[2.28920574125883,48.8273593827234],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.83361626448, 2.28293844905266","{""coordinates"":[2.28293844905266,48.83361626448],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309458942532, 2.28378630703422","{""coordinates"":[2.28378630703422,48.8309458942532],""type"":""Point""}",SP1
+Arena Paris Sud 1,"48.8309303642238, 2.28380900476961","{""coordinates"":[2.28380900476961,48.8309303642238],""type"":""Point""}",SP1
+Arena Paris Sud 4,"48.829357975913, 2.29009670692542","{""coordinates"":[2.29009670692542,48.829357975913],""type"":""Point""}",SP4
+Arena Paris Sud 4,"48.8291460908923, 2.28993577271544","{""coordinates"":[2.28993577271544,48.8291460908923],""type"":""Point""}",SP4
+Arena Paris Sud 4 6,"48.8275437955242, 2.28916271309026","{""coordinates"":[2.28916271309026,48.8275437955242],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8295416098, 2.29111237052573","{""coordinates"":[2.29111237052573,48.8295416098],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8259138599143, 2.28909857471247","{""coordinates"":[2.28909857471247,48.8259138599143],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8296969909942, 2.29111237046583","{""coordinates"":[2.29111237046583,48.8296969909942],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8295463183955, 2.29084057370377","{""coordinates"":[2.29084057370377,48.8295463183955],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8293626853742, 2.29115528487792","{""coordinates"":[2.29115528487792,48.8293626853742],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.828570207932, 2.29233506616675","{""coordinates"":[2.29233506616675,48.828570207932],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8285042869965, 2.29239943918311","{""coordinates"":[2.29239943918311,48.8285042869965],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8283061282276, 2.29717733841075","{""coordinates"":[2.29717733841075,48.8283061282276],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.8288912342406, 2.29432387857075","{""coordinates"":[2.29432387857075,48.8288912342406],""type"":""Point""}",SP4/6
+Arena Paris Sud 4 6,"48.829725242492, 2.29083342094982","{""coordinates"":[2.29083342094982,48.829725242492],""type"":""Point""}",SP4/6
+Arena Paris Sud 6,"48.8304491606798, 2.29215656955866","{""coordinates"":[2.29215656955866,48.8304491606798],""type"":""Point""}",SP6
+Arena Paris Sud 6,"48.8303935227545, 2.29216154125773","{""coordinates"":[2.29216154125773,48.8303935227545],""type"":""Point""}",SP6
+Stade de France,"48.9261902768635, 2.35784737231885","{""coordinates"":[2.35784737231885,48.9261902768635],""type"":""Point""}",STA
+Stade de France,"48.926287561953, 2.36146761365375","{""coordinates"":[2.36146761365375,48.926287561953],""type"":""Point""}",STA
+Stade de France,"48.9262055436486, 2.35788152028972","{""coordinates"":[2.35788152028972,48.9262055436486],""type"":""Point""}",STA
+Stade de France,"48.9190353865793, 2.35439970433837","{""coordinates"":[2.35439970433837,48.9190353865793],""type"":""Point""}",STA
+Stade de France,"48.9263115558829, 2.35786963068314","{""coordinates"":[2.35786963068314,48.9263115558829],""type"":""Point""}",STA
+Stade de France,"48.9261584329036, 2.35788639373651","{""coordinates"":[2.35788639373651,48.9261584329036],""type"":""Point""}",STA
+Stade de France,"48.9261563712338, 2.35785351350273","{""coordinates"":[2.35785351350273,48.9261563712338],""type"":""Point""}",STA
+Stade Geoffroy-Guichard,"45.4610291965994, 4.38823527724438","{""coordinates"":[4.38823527724438,45.4610291965994],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4598829227883, 4.38519395314939","{""coordinates"":[4.38519395314939,45.4598829227883],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4608414065565, 4.38829097751327","{""coordinates"":[4.38829097751327,45.4608414065565],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4609664873133, 4.38796830761256","{""coordinates"":[4.38796830761256,45.4609664873133],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4616760792573, 4.39134829495761","{""coordinates"":[4.39134829495761,45.4616760792573],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4611455601, 4.38824587265178","{""coordinates"":[4.38824587265178,45.4611455601],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4607206643261, 4.38822186582957","{""coordinates"":[4.38822186582957,45.4607206643261],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4610611785558, 4.38900238814495","{""coordinates"":[4.38900238814495,45.4610611785558],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4599942037285, 4.38735537958613","{""coordinates"":[4.38735537958613,45.4599942037285],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4600396898478, 4.38645258265243","{""coordinates"":[4.38645258265243,45.4600396898478],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4609276072162, 4.38895142741872","{""coordinates"":[4.38895142741872,45.4609276072162],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4601706965894, 4.38822276023074","{""coordinates"":[4.38822276023074,45.4601706965894],""type"":""Point""}",STE
+Stade Geoffroy-Guichard,"45.4604167714335, 4.38794935408455","{""coordinates"":[4.38794935408455,45.4604167714335],""type"":""Point""}",STE
+Teahupo'o Tahiti,"-17.8556925889374, -149.252228943771","{""coordinates"":[-149.252228943771,-17.8556925889374],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8551947510445, -149.251559732313","{""coordinates"":[-149.251559732313,-17.8551947510445],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8556568465366, -149.25189098513","{""coordinates"":[-149.25189098513,-17.8556568465366],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.85985563121, -149.246915820375","{""coordinates"":[-149.246915820375,-17.85985563121],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8548832821082, -149.251549003566","{""coordinates"":[-149.251549003566,-17.8548832821082],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8558712997681, -149.252059964159","{""coordinates"":[-149.252059964159,-17.8558712997681],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8559217215163, -149.252392893933","{""coordinates"":[-149.252392893933,-17.8559217215163],""type"":""Point""}",TAH
+Teahupo'o Tahiti,"-17.8553683561784, -149.251940605998","{""coordinates"":[-149.251940605998,-17.8553683561784],""type"":""Point""}",TAH
+Trocadero,"48.8634432591509, 2.28948737597764","{""coordinates"":[2.28948737597764,48.8634432591509],""type"":""Point""}",TRO
+Trocadero,"48.8635958951711, 2.2924141925362","{""coordinates"":[2.2924141925362,48.8635958951711],""type"":""Point""}",TRO
+Trocadero,"48.8631913167498, 2.28850338416425","{""coordinates"":[2.28850338416425,48.8631913167498],""type"":""Point""}",TRO
+Trocadero,"48.8633016566436, 2.28891990342617","{""coordinates"":[2.28891990342617,48.8633016566436],""type"":""Point""}",TRO
+Trocadero,"48.8635646324097, 2.29236946563559","{""coordinates"":[2.29236946563559,48.8635646324097],""type"":""Point""}",TRO
+Trocadero,"48.8635627934231, 2.28994582670887","{""coordinates"":[2.28994582670887,48.8635627934231],""type"":""Point""}",TRO
+Trocadero,"48.8596345638742, 2.28782688979255","{""coordinates"":[2.28782688979255,48.8596345638742],""type"":""Point""}",TRO
+Trocadero,"48.8633976091149, 2.28929294925563","{""coordinates"":[2.28929294925563,48.8633976091149],""type"":""Point""}",TRO
+Trocadero,"48.8596839752356, 2.28810047404254","{""coordinates"":[2.28810047404254,48.8596839752356],""type"":""Point""}",TRO
+Trocadero,"48.8563149008117, 2.28997634067099","{""coordinates"":[2.28997634067099,48.8563149008117],""type"":""Point""}",TRO
+Trocadero,"48.8565207483504, 2.29006359095626","{""coordinates"":[2.29006359095626,48.8565207483504],""type"":""Point""}",TRO
+Trocadero,"48.8629430510992, 2.29182156110314","{""coordinates"":[2.29182156110314,48.8629430510992],""type"":""Point""}",TRO
+Trocadero,"48.8632428087305, 2.28871863237343","{""coordinates"":[2.28871863237343,48.8632428087305],""type"":""Point""}",TRO
+Velopark de Saint-Quentin-en-Yvelines,"48.7890077633548, 2.03526280606491","{""coordinates"":[2.03526280606491,48.7890077633548],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7889888169264, 2.03533140228189","{""coordinates"":[2.03533140228189,48.7889888169264],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7888089904538, 2.03531189665527","{""coordinates"":[2.03531189665527,48.7888089904538],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7894372202185, 2.0309182264627","{""coordinates"":[2.0309182264627,48.7894372202185],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7892167858986, 2.03850633116933","{""coordinates"":[2.03850633116933,48.7892167858986],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7900559062971, 2.03903447798318","{""coordinates"":[2.03903447798318,48.7900559062971],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7889532696351, 2.03530623680133","{""coordinates"":[2.03530623680133,48.7889532696351],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7896335179111, 2.03159787844583","{""coordinates"":[2.03159787844583,48.7896335179111],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7889637306485, 2.03524333097796","{""coordinates"":[2.03524333097796,48.7889637306485],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7896996203394, 2.0303766317154","{""coordinates"":[2.0303766317154,48.7896996203394],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7872432016949, 2.03679916152169","{""coordinates"":[2.03679916152169,48.7872432016949],""type"":""Point""}",VEL
+Velopark de Saint-Quentin-en-Yvelines,"48.7873680816184, 2.03465351049572","{""coordinates"":[2.03465351049572,48.7873680816184],""type"":""Point""}",VEL
+Château de Versailles,"48.8170404363397, 2.0824911996559","{""coordinates"":[2.0824911996559,48.8170404363397],""type"":""Point""}",VER
+Château de Versailles,"48.8174132642311, 2.08299460570386","{""coordinates"":[2.08299460570386,48.8174132642311],""type"":""Point""}",VER
+Château de Versailles,"48.8200512113082, 2.08766324769207","{""coordinates"":[2.08766324769207,48.8200512113082],""type"":""Point""}",VER
+Château de Versailles,"48.8172737507282, 2.08178672727559","{""coordinates"":[2.08178672727559,48.8172737507282],""type"":""Point""}",VER
+Château de Versailles,"48.8175498554982, 2.08162221799771","{""coordinates"":[2.08162221799771,48.8175498554982],""type"":""Point""}",VER
+Château de Versailles,"48.8173624199438, 2.08321718825142","{""coordinates"":[2.08321718825142,48.8173624199438],""type"":""Point""}",VER
+Château de Versailles,"48.8164209546039, 2.08151729209213","{""coordinates"":[2.08151729209213,48.8164209546039],""type"":""Point""}",VER
+Château de Versailles,"48.8185753553104, 2.07642232665729","{""coordinates"":[2.07642232665729,48.8185753553104],""type"":""Point""}",VER
+Château de Versailles,"48.8176626338501, 2.08333493206692","{""coordinates"":[2.08333493206692,48.8176626338501],""type"":""Point""}",VER
+Château de Versailles,"48.8160574578065, 2.08083633069445","{""coordinates"":[2.08083633069445,48.8160574578065],""type"":""Point""}",VER
+Château de Versailles,"48.8175292571253, 2.08317065927087","{""coordinates"":[2.08317065927087,48.8175292571253],""type"":""Point""}",VER
+Château de Versailles,"48.8173153716458, 2.08295688069676","{""coordinates"":[2.08295688069676,48.8173153716458],""type"":""Point""}",VER
+Château de Versailles,"48.8171259829539, 2.08167049687711","{""coordinates"":[2.08167049687711,48.8171259829539],""type"":""Point""}",VER
+Château de Versailles,"48.817243278368, 2.0828052794018","{""coordinates"":[2.0828052794018,48.817243278368],""type"":""Point""}",VER
+Stade Nautique de Vaires s/ M. - eaux vives,"48.8679082666845, 2.6607025996917","{""coordinates"":[2.6607025996917,48.8679082666845],""type"":""Point""}",VN2
+Stade Nautique de Vaires-sur-Marne,"48.8649029369697, 2.64421502698746","{""coordinates"":[2.64421502698746,48.8649029369697],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8642422553726, 2.63926414538872","{""coordinates"":[2.63926414538872,48.8642422553726],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8649231652766, 2.64432544652333","{""coordinates"":[2.64432544652333,48.8649231652766],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8648321378312, 2.64418567495893","{""coordinates"":[2.64418567495893,48.8648321378312],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8648385741207, 2.64410320973594","{""coordinates"":[2.64410320973594,48.8648385741207],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8638706795571, 2.6381900531824","{""coordinates"":[2.6381900531824,48.8638706795571],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8641177073065, 2.63827588379696","{""coordinates"":[2.63827588379696,48.8641177073065],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.86486929532, 2.64429638170785","{""coordinates"":[2.64429638170785,48.86486929532],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.864767774891, 2.64406547141355","{""coordinates"":[2.64406547141355,48.864767774891],""type"":""Point""}",VNS
+Stade Nautique de Vaires-sur-Marne,"48.8645628406164, 2.64014455673186","{""coordinates"":[2.64014455673186,48.8645628406164],""type"":""Point""}",VNS
+Stade Yves-du-Manoir,"48.9299396983572, 2.2412018615147","{""coordinates"":[2.2412018615147,48.9299396983572],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9306997170855, 2.24197812933048","{""coordinates"":[2.24197812933048,48.9306997170855],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9306181068102, 2.24230897004071","{""coordinates"":[2.24230897004071,48.9306181068102],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9305364915287, 2.2420481430682","{""coordinates"":[2.2420481430682,48.9305364915287],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9305878178437, 2.24218615237657","{""coordinates"":[2.24218615237657,48.9305878178437],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.93048865166, 2.24185625903574","{""coordinates"":[2.24185625903574,48.93048865166],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9307246719074, 2.24221006863272","{""coordinates"":[2.24221006863272,48.9307246719074],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9304507236279, 2.24711404215213","{""coordinates"":[2.24711404215213,48.9304507236279],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9305336042019, 2.24734871464094","{""coordinates"":[2.24734871464094,48.9305336042019],""type"":""Point""}",YDM
+Stade Yves-du-Manoir,"48.9299864872104, 2.24161892784828","{""coordinates"":[2.24161892784828,48.9299864872104],""type"":""Point""}",YDM
