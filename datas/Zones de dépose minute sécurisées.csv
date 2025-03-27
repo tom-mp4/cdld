@@ -1,0 +1,164 @@
+Venue,Geo Point,Geo Shape,Nom site,Nom arrêt
+Centre Aquatique,"48.9247330031411, 2.35480087174455","{""coordinates"": [2.35480087174455, 48.9247330031411], ""type"": ""Point""}",Centre Aquatique,Centre Aquatique (AQC) - PSH-DEPOSE-MIN
+Centre Aquatique,"48.9254869003265, 2.35266409962573","{""coordinates"": [2.35266409962573, 48.9254869003265], ""type"": ""Point""}",Centre Aquatique,Centre Aquatique (AQC) - PFR-navettes
+Centre Aquatique,"48.9248749999261, 2.35484000000329","{""coordinates"": [2.35484000000329, 48.9248749999261], ""type"": ""Point""}",Centre Aquatique,Centre Aquatique (AQC) - PSH-TAXI
+Centre Aquatique,"48.9247111299972, 2.35452597592943","{""coordinates"": [2.35452597592943, 48.9247111299972], ""type"": ""Point""}",Centre Aquatique,Centre Aquatique (AQC) - PFR-PARKING
+Arena Bercy,"48.8384185872089, 2.38163436169814","{""coordinates"": [2.38163436169814, 48.8384185872089], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PFR-navettes
+Arena Bercy,"48.8366074010126, 2.38371346391422","{""coordinates"": [2.38371346391422, 48.8366074010126], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PFR-PARKING
+Arena Bercy,"48.8368029631505, 2.38428692413708","{""coordinates"": [2.38428692413708, 48.8368029631505], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PFR-PARKING
+Arena Bercy,"48.8381659002792, 2.38198160996278","{""coordinates"": [2.38198160996278, 48.8381659002792], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PMR-TAXI
+Arena Bercy,"48.8381659002792, 2.38198160996278","{""coordinates"": [2.38198160996278, 48.8381659002792], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PSH-TAXI
+Arena Bercy,"48.8368029631505, 2.38428692413708","{""coordinates"": [2.38428692413708, 48.8368029631505], ""type"": ""Point""}",Arena Bercy,Arena Bercy (BCY) - PMR-Parking
+Stade de Bordeaux,"44.8974112009775, -0.566458920631451","{""coordinates"": [-0.566458920631451, 44.8974112009775], ""type"": ""Point""}",Stade de Bordeaux,Stade de Bordeaux (BOR) - PFR-PARKING
+Stade de Bordeaux,"44.8993367027019, -0.561806165787637","{""coordinates"": [-0.561806165787637, 44.8993367027019], ""type"": ""Point""}",Stade de Bordeaux,Stade de Bordeaux (BOR) - PSH-TAXI
+Stade de Bordeaux,"44.8991520182066, -0.561795137170871","{""coordinates"": [-0.561795137170871, 44.8991520182066], ""type"": ""Point""}",Stade de Bordeaux,Stade de Bordeaux (BOR) - PFR-PARKING
+Stade de Bordeaux,"44.8991210299588, -0.561738653800775","{""coordinates"": [-0.561738653800775, 44.8991210299588], ""type"": ""Point""}",Stade de Bordeaux,Stade de Bordeaux (BOR) - PSH-DEPOSE-MIN
+Stade de Bordeaux,"44.8992447652286, -0.561801899688354","{""coordinates"": [-0.561801899688354, 44.8992447652286], ""type"": ""Point""}",Stade de Bordeaux,Stade de Bordeaux (BOR) - PFR-navettes
+Arena Champ-de-Mars,"48.8504242988135, 2.30525200008824","{""coordinates"": [2.30525200008824, 48.8504242988135], ""type"": ""Point""}",Arena Champ-de-Mars,
+Eiffel Champ-de-Mars,"48.8501319799975, 2.30106178598758","{""coordinates"": [2.30106178598758, 48.8501319799975], ""type"": ""Point""}",Eiffel Champ-de-Mars,Arena Champ-de-Mars (CDM) ECM - PSH-DEPOSE-MIN
+Eiffel Champ-de-Mars,"48.8503683142108, 2.30102739398694","{""coordinates"": [2.30102739398694, 48.8503683142108], ""type"": ""Point""}",Eiffel Champ-de-Mars,Arena Champ-de-Mars (CDM) EIF - PFR-PARKING
+Arena Champ-de-Mars,"48.850484899962, 2.30232432230533","{""coordinates"": [2.30232432230533, 48.850484899962], ""type"": ""Point""}",Arena Champ-de-Mars,Arena Champ-de-Mars (CDM) - PFR-navettes
+Eiffel Champ-de-Mars,"48.850640313861, 2.30183988818811","{""coordinates"": [2.30183988818811, 48.850640313861], ""type"": ""Point""}",Eiffel Champ-de-Mars,Eiffel Champ-de-Mars (ECM) EIF CDM - PSH Taxi
+Arena Porte de La Chapelle,"48.8991376740722, 2.36624549594075","{""coordinates"": [2.36624549594075, 48.8991376740722], ""type"": ""Point""}",Arena Porte de La Chapelle,Arena Porte de La Chapelle (CPL) - PFR-PARKING
+Arena Porte de La Chapelle,"48.8993139193684, 2.36595847522431","{""coordinates"": [2.36595847522431, 48.8993139193684], ""type"": ""Point""}",Arena Porte de La Chapelle,Arena Porte de la Chapelle (CPL) - PMR-dépose-min
+Arena Porte de la chapelle,"48.8978090001154, 2.35952900007219","{""coordinates"": [2.35952900007219, 48.8978090001154], ""type"": ""Point""}",Arena Porte de la chapelle,Arena Porte de La Chapelle (CPL) - PSH-TAXI
+Arena Porte de La Chapelle,"48.8991376740722, 2.36624549594075","{""coordinates"": [2.36624549594075, 48.8991376740722], ""type"": ""Point""}",Arena Porte de La Chapelle,Arena Porte de La Chapelle (CPL) - PMR-Parking
+Arena Porte de La Chapelle,"48.8989945611212, 2.36558882297646","{""coordinates"": [2.36558882297646, 48.8989945611212], ""type"": ""Point""}",Arena Porte de La Chapelle,Arena Porte de La Chapelle (CPL) - PFR-navettes
+Clichy-sous-Bois,"48.9069152637405, 2.53549838065872","{""coordinates"": [2.53549838065872, 48.9069152637405], ""type"": ""Point""}",Clichy-sous-Bois,
+Tir Chateauroux - Village,"46.8151905222285, 1.75471564330765","{""coordinates"": [1.75471564330765, 46.8151905222285], ""type"": ""Point""}",Tir Chateauroux - Village,Centre National de Tir de Châteauroux (CTX) - PSH-DEPOSE-MIN
+Tir Chateauroux - Village,"46.8192868830972, 1.7573732479903","{""coordinates"": [1.7573732479903, 46.8192868830972], ""type"": ""Point""}",Tir Chateauroux - Village,Centre National de Tir de Châteauroux (CTX) - PSH-DEPOSE-MIN
+Tir Chateauroux - Village,"46.8132086717292, 1.75823470090672","{""coordinates"": [1.75823470090672, 46.8132086717292], ""type"": ""Point""}",Tir Chateauroux - Village,Centre National de Tir de Châteauroux (CTX) - PSH-DEPOSE-MIN
+Paris La Defense Arena,"48.8957471490236, 2.22421043822239","{""coordinates"": [2.22421043822239, 48.8957471490236], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PMR-TAXI
+Paris La Defense Arena,"48.8941057625116, 2.22698475561999","{""coordinates"": [2.22698475561999, 48.8941057625116], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PMR-dépose-min
+Paris La Defense Arena,"48.8944304460963, 2.22590677638072","{""coordinates"": [2.22590677638072, 48.8944304460963], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PMR-Parking
+Paris La Defense Arena,"48.8949207990393, 2.22669849038671","{""coordinates"": [2.22669849038671, 48.8949207990393], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PFR-navettes
+Paris La Defense Arena,"48.8957350001911, 2.2243400004392","{""coordinates"": [2.2243400004392, 48.8957350001911], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PSH-TAXI
+Paris La Defense Arena,"48.8943729999686, 2.2260729997426","{""coordinates"": [2.2260729997426, 48.8943729999686], ""type"": ""Point""}",Paris La Defense Arena,Paris La Défense Arena (DEF) - PSH-TAXI
+Eiffel Champ-de-Mars,"48.8549043749656, 2.29587838462734","{""coordinates"": [2.29587838462734, 48.8549043749656], ""type"": ""Point""}",Eiffel Champ-de-Mars,Stade Tour Eiffel (EIF) ECM - PFR-PARKING
+Eiffel,"48.8554701471699, 2.29431761931336","{""coordinates"": [2.29431761931336, 48.8554701471699], ""type"": ""Point""}",Eiffel,Eiffel (Eif) - PFR-navettes
+Stade Tour Eiffel,"48.8547788360157, 2.29570024601156","{""coordinates"": [2.29570024601156, 48.8547788360157], ""type"": ""Point""}",Stade Tour Eiffel,Stade Tour Eiffel (EIF) - PSH-DEPOSE-MIN
+Stade Tour Eiffel,"48.8542901942516, 2.28929383690101","{""coordinates"": [2.28929383690101, 48.8542901942516], ""type"": ""Point""}",Stade Tour Eiffel,Stade Tour Eiffel (EIF) ECM - PSH-TAXI
+Colline d'Elancourt,"48.7916553329234, 1.96566345875902","{""coordinates"": [1.96566345875902, 48.7916553329234], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PSH-DEPOSE-MIN
+Colline d'Elancourt,"48.7909020582603, 1.96661321337293","{""coordinates"": [1.96661321337293, 48.7909020582603], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PFR-PARKING
+Colline d'Elancourt,"48.7916553329234, 1.96566345875902","{""coordinates"": [1.96566345875902, 48.7916553329234], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PMR-dépose-min
+Colline d'Elancourt,"48.7914471529375, 1.96550847332136","{""coordinates"": [1.96550847332136, 48.7914471529375], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PFR-navettes
+Colline d'Elancourt,"48.7916829999979, 1.96472899975945","{""coordinates"": [1.96472899975945, 48.7916829999979], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PSH TAXI
+Colline d'Elancourt,"48.7909020582603, 1.96661321337293","{""coordinates"": [1.96661321337293, 48.7909020582603], ""type"": ""Point""}",Colline d'Elancourt,Colline d'Elancourt (ELA) - PMR-Parking
+GARE DE PARIS BERCY Sortie Parking,"48.8387581405776, 2.38242218860645","{""coordinates"": [2.38242218860645, 48.8387581405776], ""type"": ""Point""}",GARE DE PARIS BERCY Sortie Parking,GARE DE PARIS BERCY Sortie Parking Gare PFR-navettes
+PARIS AUSTERLITZ Sortie Cour Seine,"48.8428856448987, 2.3658886273877","{""coordinates"": [2.3658886273877, 48.8428856448987], ""type"": ""Point""}",PARIS AUSTERLITZ Sortie Cour Seine,PARIS AUSTERLITZ Sortie Cour Seine PFR-navettes
+Grand Palais-Pont Alexandre III,"48.8696340001815, 2.31051899956717","{""coordinates"": [2.31051899956717, 48.8696340001815], ""type"": ""Point""}",Grand Palais-Pont Alexandre III,Grand Palais-Pont Alexandre III (GRX) - PSH-TAXI
+Grand Palais-Pont Alexandre III,"48.8697655289268, 2.31130600280779","{""coordinates"": [2.31130600280779, 48.8697655289268], ""type"": ""Point""}",Grand Palais-Pont Alexandre III,Grand Palais-Pont Alexandre III (GRX) - PFR-navettes
+Grand Palais-Pont Alexandre III,"48.8701171071066, 2.31208256269581","{""coordinates"": [2.31208256269581, 48.8701171071066], ""type"": ""Point""}",Grand Palais-Pont Alexandre III,Grand Palais-Pont Alexandre III (GRX) - PSH-DEPOSE-MIN
+Grand Palais-Pont Alexandre III,"48.8695691672167, 2.31146151016662","{""coordinates"": [2.31146151016662, 48.8695691672167], ""type"": ""Point""}",Grand Palais-Pont Alexandre III,Grand Palais-Pont Alexandre III (GRX) - PFR-PARKING
+Grand Palais-Pont Alexandre III,"48.8695691672167, 2.31146151016662","{""coordinates"": [2.31146151016662, 48.8695691672167], ""type"": ""Point""}",Grand Palais-Pont Alexandre III,Grand Palais-Pont Alexandre III (GRX) - PMR-Parking
+Invalides,"48.8616386065927, 2.30965356225195","{""coordinates"": [2.30965356225195, 48.8616386065927], ""type"": ""Point""}",Invalides,Invalides (INV) - PFR-PARKING
+Invalides,"48.862097413884, 2.30932743464844","{""coordinates"": [2.30932743464844, 48.862097413884], ""type"": ""Point""}",Invalides,Invalides (INV) - PFR-navettes
+Invalides,"48.8619445344819, 2.30962387996546","{""coordinates"": [2.30962387996546, 48.8619445344819], ""type"": ""Point""}",Invalides,Invalides (INV) - PSH-DEPOSE-MIN
+Invalides,"48.8599160000914, 2.30966099977469","{""coordinates"": [2.30966099977469, 48.8599160000914], ""type"": ""Point""}",Invalides,Invalides (INV) - PSH-TAXI
+Invalides,"48.8618769999124, 2.30970400033068","{""coordinates"": [2.30970400033068, 48.8618769999124], ""type"": ""Point""}",Invalides,Invalides (INV) - PSH-TAXI
+Invalides,"48.8616386065927, 2.30965356225195","{""coordinates"": [2.30965356225195, 48.8616386065927], ""type"": ""Point""}",Invalides,Invalides (INV) - PMR-Parking
+Paris St-Lazarre rue d'Amsterdam,"48.8769480015337, 2.32689112945171","{""coordinates"": [2.32689112945171, 48.8769480015337], ""type"": ""Point""}",Paris St-Lazarre rue d'Amsterdam,PARIS SAINT-LAZARE Sortie rue d'Amsterdam PFR-navettes
+Site d'escalade du Bourget,"48.9347179998689, 2.41900899996096","{""coordinates"": [2.41900899996096, 48.9347179998689], ""type"": ""Point""}",Site d'escalade du Bourget,Site d'escalade du Bourget (LBO) - PSH-TAXI
+Site d'escalade du Bourget,"48.9348057996062, 2.41903719628108","{""coordinates"": [2.41903719628108, 48.9348057996062], ""type"": ""Point""}",Site d'escalade du Bourget,Site d'escalade du Bourget (LBO) - PMR-TAXI
+Site d'escalade du Bourget,"48.9349840069338, 2.41795498507855","{""coordinates"": [2.41795498507855, 48.9349840069338], ""type"": ""Point""}",Site d'escalade du Bourget,Site d'escalade du Bourget (LBO) - PFR-navettes
+Site d'escalade du Bourget,"48.9351061190621, 2.41924986433976","{""coordinates"": [2.41924986433976, 48.9351061190621], ""type"": ""Point""}",Site d'escalade du Bourget,Site d'escalade du Bourget (LBO) - PFR-PARKING
+La Concorde,"48.8688851651915, 2.32351024206833","{""coordinates"": [2.32351024206833, 48.8688851651915], ""type"": ""Point""}",La Concorde,La Concorde (LCO) - PFR-navettes
+La Concorde,"48.8687573585702, 2.32362129000708","{""coordinates"": [2.32362129000708, 48.8687573585702], ""type"": ""Point""}",La Concorde,La Concorde (LCO) - PMR-Parking
+La Concorde,"48.8688311387893, 2.32367493380262","{""coordinates"": [2.32367493380262, 48.8688311387893], ""type"": ""Point""}",La Concorde,La Concorde (LCO) - PFR-PARKING
+La Concorde,"48.8689489998356, 2.32365099998849","{""coordinates"": [2.32365099998849, 48.8689489998356], ""type"": ""Point""}",La Concorde,La Concorde (LCO) - PMR-TAXI
+La Courneuve,"48.9403051460581, 2.4047415653143","{""coordinates"": [2.4047415653143, 48.9403051460581], ""type"": ""Point""}",La Courneuve,La Courneuve (lcs) - PFR-PARKING
+La Courneuve,"48.940726909021, 2.40441864316288","{""coordinates"": [2.40441864316288, 48.940726909021], ""type"": ""Point""}",La Courneuve,La Courneuve (LCS) - PSH-TAXI
+La Courneuve,"48.9403533967851, 2.40442526275168","{""coordinates"": [2.40442526275168, 48.9403533967851], ""type"": ""Point""}",La Courneuve,
+La Courneuve,"48.9400484881622, 2.40532667003701","{""coordinates"": [2.40532667003701, 48.9400484881622], ""type"": ""Point""}",La Courneuve,La Courneuve (LCS) - PFR-navettes
+Le Golf National,"48.7562073669606, 2.07347467595449","{""coordinates"": [2.07347467595449, 48.7562073669606], ""type"": ""Point""}",Le Golf National,Le Golf National (LGN) - PMR-dépose-min
+Le Golf National,"48.7561437609605, 2.07654990238979","{""coordinates"": [2.07654990238979, 48.7561437609605], ""type"": ""Point""}",Le Golf National,Le Golf National (LGN) - PFR-navettes
+Le Golf National,"48.7561646797946, 2.07374008500179","{""coordinates"": [2.07374008500179, 48.7561646797946], ""type"": ""Point""}",Le Golf National,Le Golf National (LGN) - PMR-Parking
+Le Golf National,"48.7560775942653, 2.07641673614032","{""coordinates"": [2.07641673614032, 48.7560775942653], ""type"": ""Point""}",Le Golf National,Le Golf National (LGN) - PFR-PARKING
+Le Golf National,"48.7562170001281, 2.07038600030971","{""coordinates"": [2.07038600030971, 48.7562170001281], ""type"": ""Point""}",Le Golf National,Le Golf National (LGN) - PSH-TAXI
+Stade Pierre Mauroy,"50.6099708104673, 3.13015394354513","{""coordinates"": [3.13015394354513, 50.6099708104673], ""type"": ""Point""}",Stade Pierre Mauroy,
+Club France - La Villette,"48.8895111437959, 2.38973982818098","{""coordinates"": [2.38973982818098, 48.8895111437959], ""type"": ""Point""}",Club France - La Villette,Club France - La Villette PFR-navettes
+Stade de Lyon,"45.7656563867661, 4.97824217619838","{""coordinates"": [4.97824217619838, 45.7656563867661], ""type"": ""Point""}",Stade de Lyon,Stade de Lyon (LYO) - PSH-TAXI
+Stade de Lyon,"45.7657431979058, 4.97827227694692","{""coordinates"": [4.97827227694692, 45.7657431979058], ""type"": ""Point""}",Stade de Lyon,Stade de Lyon (LYO) - PFR-navettes
+Stade de Lyon,"45.7658791407583, 4.97833315397708","{""coordinates"": [4.97833315397708, 45.7658791407583], ""type"": ""Point""}",Stade de Lyon,Stade de Lyon (LYO) - PSH-DEPOSE-MIN
+Marina de Marseille,"43.2612646828594, 5.3746220561777","{""coordinates"": [5.3746220561777, 43.2612646828594], ""type"": ""Point""}",Marina de Marseille,Marina de Marseille (MAM) - PFR-navettes
+Marina de Marseille,"43.2611774817992, 5.3746528701886","{""coordinates"": [5.3746528701886, 43.2611774817992], ""type"": ""Point""}",Marina de Marseille,Marina de Marseille (MAM) - PFR-PARKING
+Marina de Marseille,"43.2613423811055, 5.37460240912415","{""coordinates"": [5.37460240912415, 43.2613423811055], ""type"": ""Point""}",Marina de Marseille,Marina de Marseille (MAM) - PSH-DEPOSE-MIN
+Stade de Marseille,"43.2697122992371, 5.40003031110094","{""coordinates"": [5.40003031110094, 43.2697122992371], ""type"": ""Point""}",Stade de Marseille,Stade de Marseille (MRS) - PSH-TAXI
+Stade de Marseille,"43.2697252391966, 5.40013438362157","{""coordinates"": [5.40013438362157, 43.2697252391966], ""type"": ""Point""}",Stade de Marseille,Stade de Marseille (MRS) - PSH-DEPOSE-MIN
+Stade de Marseille,"43.2697376022418, 5.40006851914492","{""coordinates"": [5.40006851914492, 43.2697376022418], ""type"": ""Point""}",Stade de Marseille,Stade de Marseille (MRS) - PFR-navettes
+Stade de Marseille,"43.2697467033148, 5.40019101970527","{""coordinates"": [5.40019101970527, 43.2697467033148], ""type"": ""Point""}",Stade de Marseille,Stade de Marseille (MRS) - PFR-navettes
+Stade de la Beaujoire,"47.2550989681329, -1.5236751155733","{""coordinates"": [-1.5236751155733, 47.2550989681329], ""type"": ""Point""}",Stade de la Beaujoire,Stade de la Beaujoire (NAN) - PSH-DEPOSE-MIN
+Stade de la Beaujoire,"47.255073467875, -1.52371546520089","{""coordinates"": [-1.52371546520089, 47.255073467875], ""type"": ""Point""}",Stade de la Beaujoire,Stade de la Beaujoire (NAN) - PSH-TAXI
+Stade de la Beaujoire,"47.2549877755049, -1.52352548499304","{""coordinates"": [-1.52352548499304, 47.2549877755049], ""type"": ""Point""}",Stade de la Beaujoire,Stade de la Beaujoire (NAN) - PFR-PARKING
+Stade de la Beaujoire,"47.2570393216859, -1.52667295177989","{""coordinates"": [-1.52667295177989, 47.2570393216859], ""type"": ""Point""}",Stade de la Beaujoire,Stade de la Beaujoire (NAN) - PMR-Parking
+Stade de la Beaujoire,"47.2550910228921, -1.52368411938737","{""coordinates"": [-1.52368411938737, 47.2550910228921], ""type"": ""Point""}",Stade de la Beaujoire,Stade de la Beaujoire (NAN) - PFR-navettes
+Stade de Nice,"43.7074114238953, 7.19343059507049","{""coordinates"": [7.19343059507049, 43.7074114238953], ""type"": ""Point""}",Stade de Nice,Stade de Nice (NIC) - PFR-PARKING
+Stade de Nice,"43.7074849373233, 7.19347637411567","{""coordinates"": [7.19347637411567, 43.7074849373233], ""type"": ""Point""}",Stade de Nice,
+Arena Paris Nord,"48.9739104200429, 2.52799600412424","{""coordinates"": [2.52799600412424, 48.9739104200429], ""type"": ""Point""}",Arena Paris Nord,Arena Paris Nord (NPA) - PMR-TAXI
+Arena Paris Nord,"48.973192091893, 2.51533685781479","{""coordinates"": [2.51533685781479, 48.973192091893], ""type"": ""Point""}",Arena Paris Nord,Arena Paris Nord (NPA) - PFR-navettes
+Arena Paris Nord,"48.9731330000754, 2.51596600024086","{""coordinates"": [2.51596600024086, 48.9731330000754], ""type"": ""Point""}",Arena Paris Nord,Arena Paris Nord (NPA) - PSH-TAXI
+Arena Paris Nord,"48.9731269837159, 2.51548528657949","{""coordinates"": [2.51548528657949, 48.9731269837159], ""type"": ""Point""}",Arena Paris Nord,Arena Paris Nord (NPA) - PFR-navettes
+Village Olympique,"48.9189982324289, 2.33557700972336","{""coordinates"": [2.33557700972336, 48.9189982324289], ""type"": ""Point""}",Village Olympique,Village Olympique et Paralympique - Parking OGER
+Village Olympique,"48.9190117674656, 2.33562169671943","{""coordinates"": [2.33562169671943, 48.9190117674656], ""type"": ""Point""}",Village Olympique,Village Olympique (OLV) - PMR-Parking
+Village Olympique,"48.9190281221348, 2.33560808012215","{""coordinates"": [2.33560808012215, 48.9190281221348], ""type"": ""Point""}",Village Olympique,
+Village Olympique Chateauroux,"46.796152471331, 1.71197814454535","{""coordinates"": [1.71197814454535, 46.796152471331], ""type"": ""Point""}",Village Olympique Chateauroux,Village Olympique Châteauroux (OVC) - PSH-DEPOSE-MIN
+Village Olympique Chateauroux,"46.7964756470548, 1.71385211466963","{""coordinates"": [1.71385211466963, 46.7964756470548], ""type"": ""Point""}",Village Olympique Chateauroux,Village Olympique Châteauroux (OVC) - PSH-DEPOSE-MIN
+Parc des Princes,"48.8406530737335, 2.25527559559381","{""coordinates"": [2.25527559559381, 48.8406530737335], ""type"": ""Point""}",Parc des Princes,Parc des Princes (PDP) - PFR-PARKING
+Parc des Princes,"48.8413870745221, 2.25523348440428","{""coordinates"": [2.25523348440428, 48.8413870745221], ""type"": ""Point""}",Parc des Princes,Parc des Princes (PDP) - PFR-navettes
+Parc des Princes,"48.8406530737335, 2.25527559559381","{""coordinates"": [2.25527559559381, 48.8406530737335], ""type"": ""Point""}",Parc des Princes,Parc des Princes (PDP) - PMR-Parking
+,"48.8413791189025, 2.25542925376838","{""coordinates"": [2.25542925376838, 48.8413791189025], ""type"": ""Point""}",,
+Paris Gare de l'Est rue d'Alsace,"48.8773882657266, 2.3580839936343","{""coordinates"": [2.3580839936343, 48.8773882657266], ""type"": ""Point""}",Paris Gare de l'Est rue d'Alsace,PARIS GARE DE L'EST Sortie rue d'Alsace PFR-navettes
+Gare de Lyon  1 Tr de l'Horloge,"48.844695330988, 2.37271105767071","{""coordinates"": [2.37271105767071, 48.844695330988], ""type"": ""Point""}",Gare de Lyon  1 Tr de l'Horloge,PARIS GARE DE LYON Hall 1 sortie Tour de l'Horloge PFR-navettes
+PESI,"46.826276371884, 1.75692437870744","{""coordinates"": [1.75692437870744, 46.826276371884], ""type"": ""Point""}",PESI,Village Olympique Châteauroux (OVC) - PFR-navettes
+PESI,"46.8259811477908, 1.75971665432588","{""coordinates"": [1.75971665432588, 46.8259811477908], ""type"": ""Point""}",PESI,Village Olympique Châteauroux (OVC) - PFR-navettes
+PESI,"46.8255667956565, 1.75928022042151","{""coordinates"": [1.75928022042151, 46.8255667956565], ""type"": ""Point""}",PESI,Village Olympique Châteauroux (OVC) - PFR-PARKING
+Stade Roland-Garros,"48.8463776087832, 2.24741776680061","{""coordinates"": [2.24741776680061, 48.8463776087832], ""type"": ""Point""}",Stade Roland-Garros,Stade Roland-Garros (RGA) - PFR-navettes
+Stade Roland-Garros,"48.8465281838142, 2.2468451680621","{""coordinates"": [2.2468451680621, 48.8465281838142], ""type"": ""Point""}",Stade Roland-Garros,Stade Roland-Garros (RGA) - PMR-TAXI
+Roland-G.-Parc des Princes,"48.8471117362589, 2.24467183706432","{""coordinates"": [2.24467183706432, 48.8471117362589], ""type"": ""Point""}",Roland-G.-Parc des Princes,Stade Roland-Garros (RGA) PDP - PMR-Parking
+Stade Roland-Garros,"48.8454306989506, 2.25354001543061","{""coordinates"": [2.25354001543061, 48.8454306989506], ""type"": ""Point""}",Stade Roland-Garros,Stade Roland-Garros (RGA) - PMR-Parking
+Stade Roland-Garros,"48.8465729997651, 2.24654299995334","{""coordinates"": [2.24654299995334, 48.8465729997651], ""type"": ""Point""}",Stade Roland-Garros,Stade Roland-Garros (RGA) - PSH-TAXI
+Roland-G.-Parc des Princes,"48.8471117362589, 2.24467183706432","{""coordinates"": [2.24467183706432, 48.8471117362589], ""type"": ""Point""}",Roland-G.-Parc des Princes,Stade Roland-Garros (RGA) PDP - PFR-PARKING
+Stade Roland-Garros,"48.8454497631483, 2.25348315207311","{""coordinates"": [2.25348315207311, 48.8454497631483], ""type"": ""Point""}",Stade Roland-Garros,Stade Roland-Garros (RGA) - PFR-PARKING
+Gare de ROSA PARKS,"48.8961947570977, 2.37492982645952","{""coordinates"": [2.37492982645952, 48.8961947570977], ""type"": ""Point""}",Gare de ROSA PARKS,Gare de ROSA PARKS PFR-navettes
+Arena Paris Sud 1 4,"48.8330568148669, 2.28656629657687","{""coordinates"": [2.28656629657687, 48.8330568148669], ""type"": ""Point""}",Arena Paris Sud 1 4,Arena Paris Sud 1 (SP1) SP4 - PFR-navettes
+Arena Paris Sud 6,"48.829431950243, 2.29260811634454","{""coordinates"": [2.29260811634454, 48.829431950243], ""type"": ""Point""}",Arena Paris Sud 6,Arena Paris Sud 6 (SP6) - PFR-navettes
+Arena Paris Sud,"48.8337030982568, 2.28539994826649","{""coordinates"": [2.28539994826649, 48.8337030982568], ""type"": ""Point""}",Arena Paris Sud,Arena Paris Sud (SPA) - PFR-PARKING
+Arena Paris Sud,"48.8337030982568, 2.28539994826649","{""coordinates"": [2.28539994826649, 48.8337030982568], ""type"": ""Point""}",Arena Paris Sud,Arena Paris Sud (SPA) - PMR-Parking
+Arena Paris Sud,"48.8292042070956, 2.293270383699","{""coordinates"": [2.293270383699, 48.8292042070956], ""type"": ""Point""}",Arena Paris Sud,
+Arena Paris Sud,"48.8327178545874, 2.28738293491181","{""coordinates"": [2.28738293491181, 48.8327178545874], ""type"": ""Point""}",Arena Paris Sud,
+Arena Paris Sud,"48.8293410504898, 2.2932838210164","{""coordinates"": [2.2932838210164, 48.8293410504898], ""type"": ""Point""}",Arena Paris Sud,Arena Paris Sud (SPA) - PFR-PARKING
+Arena Paris Sud,"48.8297391561497, 2.29326808612591","{""coordinates"": [2.29326808612591, 48.8297391561497], ""type"": ""Point""}",Arena Paris Sud,Arena Paris Sud (SPA) - PMR-Parking
+Stade de France,"48.926337254914, 2.36148582001907","{""coordinates"": [2.36148582001907, 48.926337254914], ""type"": ""Point""}",Stade de France,Stade de France (STA) - PFR-PARKING
+Stade de France,"48.9263435711961, 2.36673048109128","{""coordinates"": [2.36673048109128, 48.9263435711961], ""type"": ""Point""}",Stade de France,Stade de France (STA) - PSH-TAXI
+Stade de France,"48.9262171060074, 2.36673354075313","{""coordinates"": [2.36673354075313, 48.9262171060074], ""type"": ""Point""}",Stade de France,Stade de France (STA) - PFR-navettes
+Stade de France,"48.9229737442027, 2.36539769561998","{""coordinates"": [2.36539769561998, 48.9229737442027], ""type"": ""Point""}",Stade de France,Stade de France (STA) - PFR-navettes
+Stade Geoffroy-Guichard,"45.459854990764, 4.38807386127133","{""coordinates"": [4.38807386127133, 45.459854990764], ""type"": ""Point""}",Stade Geoffroy-Guichard,Stade Geoffroy-Guichard (STE) - PFR-navettes
+Stade Geoffroy-Guichard,"45.4597111488134, 4.38808067319616","{""coordinates"": [4.38808067319616, 45.4597111488134], ""type"": ""Point""}",Stade Geoffroy-Guichard,Stade Geoffroy-Guichard (STE) - PSH-DEPOSE-MIN
+Stade Geoffroy-Guichard,"45.45974568392, 4.38806830339469","{""coordinates"": [4.38806830339469, 45.45974568392], ""type"": ""Point""}",Stade Geoffroy-Guichard,Stade Geoffroy-Guichard (STE) - PFR-PARKING
+Stade Geoffroy-Guichard,"45.4596218350446, 4.38808490336282","{""coordinates"": [4.38808490336282, 45.4596218350446], ""type"": ""Point""}",Stade Geoffroy-Guichard,Stade Geoffroy-Guichard (STE) - PSH-TAXI
+Trocadéro,"48.8623355466853, 2.29302221633431","{""coordinates"": [2.29302221633431, 48.8623355466853], ""type"": ""Point""}",Trocadéro,Trocadero (TRO) - PFR-navettes
+Trocadéro - Parc des champions,"48.8633479535234, 2.2948970694377","{""coordinates"": [2.2948970694377, 48.8633479535234], ""type"": ""Point""}",Trocadéro - Parc des champions,TRO-PMR Parking
+Trocadéro - Parc des champions,"48.8552164493355, 2.2944940123338","{""coordinates"": [2.2944940123338, 48.8552164493355], ""type"": ""Point""}",Trocadéro - Parc des champions,
+Trocadéro - Parc des champions,"48.8594606746088, 2.28737784089275","{""coordinates"": [2.28737784089275, 48.8594606746088], ""type"": ""Point""}",Trocadéro - Parc des champions,Trocadero (TRO) - PMR-Parking
+Trocadéro - Parc des champions,"48.8596154874161, 2.28761982367411","{""coordinates"": [2.28761982367411, 48.8596154874161], ""type"": ""Point""}",Trocadéro - Parc des champions,
+Velopark de St-Q.-en-Yvelines,"48.7903568872341, 2.03246799179278","{""coordinates"": [2.03246799179278, 48.7903568872341], ""type"": ""Point""}",Velopark de St-Q.-en-Yvelines,Velopark de Saint-Quentin-en-Yvelines (VEL) - PMR-Parking
+Velopark de St-Q.-en-Yvelines,"48.7892434078688, 2.03286763070314","{""coordinates"": [2.03286763070314, 48.7892434078688], ""type"": ""Point""}",Velopark de St-Q.-en-Yvelines,Velopark de Saint-Quentin-en-Yvelines (VEL) - PFR-navettes
+Velopark de St-Q.-en-Yvelines,"48.7877963194415, 2.04119589992743","{""coordinates"": [2.04119589992743, 48.7877963194415], ""type"": ""Point""}",Velopark de St-Q.-en-Yvelines,Velopark de Saint-Quentin-en-Yvelines (VEL) - PFR-PARKING
+Velopark de St-Q.-en-Yvelines,"48.7839482508127, 2.04114109021536","{""coordinates"": [2.04114109021536, 48.7839482508127], ""type"": ""Point""}",Velopark de St-Q.-en-Yvelines,Velopark de Saint-Quentin-en-Yvelines (VEL) - PMR-Parking
+Velopark de Saint-Quentin-en-Yvelines,"48.7874249997749, 2.04020099967725","{""coordinates"": [2.04020099967725, 48.7874249997749], ""type"": ""Point""}",Velopark de Saint-Quentin-en-Yvelines,Velopark de Saint-Quentin-en-Yvelines (VEL) - TAXI
+Chateau de Versailles,"48.8185691901848, 2.08491225522228","{""coordinates"": [2.08491225522228, 48.8185691901848], ""type"": ""Point""}",Chateau de Versailles,Château de Versailles (VER) - PMR-Parking
+Chateau de Versailles,"48.818018999902, 2.08400699955429","{""coordinates"": [2.08400699955429, 48.818018999902], ""type"": ""Point""}",Chateau de Versailles,Château de Versailles (VER) - PSH-TAXI
+Chateau de Versailles,"48.8181355917539, 2.08421363273087","{""coordinates"": [2.08421363273087, 48.8181355917539], ""type"": ""Point""}",Chateau de Versailles,Château de Versailles (VER) VER VER - PFR-navettes
+Chateau de Versailles,"48.81831721881, 2.0845006875833","{""coordinates"": [2.0845006875833, 48.81831721881], ""type"": ""Point""}",Chateau de Versailles,Château de Versailles (VER) - PMR-TAXI
+Chateau de Versailles,"48.8185691901848, 2.08491225522228","{""coordinates"": [2.08491225522228, 48.8185691901848], ""type"": ""Point""}",Chateau de Versailles,Château de Versailles (VER) - PFR-PARKING
+Stade Nautique de Vaires-sur-Marne,"48.8647197931186, 2.64390197711707","{""coordinates"": [2.64390197711707, 48.8647197931186], ""type"": ""Point""}",Stade Nautique de Vaires-sur-Marne,Stade Nautique de Vaires-sur-Marne (VNS) - PFR-navettes
+Stade Nautique de Vaires-sur-M.,"48.8654203960044, 2.64332943856566","{""coordinates"": [2.64332943856566, 48.8654203960044], ""type"": ""Point""}",Stade Nautique de Vaires-sur-M.,Stade Nautique de Vaires-sur-Marne (VNS) - PMR-Parking
+Stade Nautique de Vaires-sur-Marne,"48.8654723052125, 2.64366775667809","{""coordinates"": [2.64366775667809, 48.8654723052125], ""type"": ""Point""}",Stade Nautique de Vaires-sur-Marne,Stade Nautique de Vaires-sur-Marne (VNS) - PMR TAXI
+Stade Nautique de Vaires-sur-M.,"48.8654203960044, 2.64332943856566","{""coordinates"": [2.64332943856566, 48.8654203960044], ""type"": ""Point""}",Stade Nautique de Vaires-sur-M.,Stade Nautique de Vaires-sur-Marne (VNS) - PFR-PARKING
+Montparnasse Pt grp 1 voie 24,"48.8412413891015, 2.31800292336264","{""coordinates"": [2.31800292336264, 48.8412413891015], ""type"": ""Point""}",Montparnasse Pt grp 1 voie 24,PARIS MONTPARNASSE Point groupe n°1 au milieu de la voie 24 PFR-navettes
+PARIS GARE DU NORD Gare routiere,"48.8807417870003, 2.35728616069692","{""coordinates"": [2.35728616069692, 48.8807417870003], ""type"": ""Point""}",PARIS GARE DU NORD Gare routiere,PARIS GARE DU NORD Gare routière PFR-navettes
+Stade Yves-du-Manoir,"48.9257521972527, 2.24785538109127","{""coordinates"": [2.24785538109127, 48.9257521972527], ""type"": ""Point""}",Stade Yves-du-Manoir,Stade Yves-du-Manoir (YDM) - PFR-PARKING
+Stade Yves du Manoir,"48.9258829999974, 2.24723500006448","{""coordinates"": [2.24723500006448, 48.9258829999974], ""type"": ""Point""}",Stade Yves du Manoir,Stade Yves-du-Manoir (YDM) - PSH-TAXI
+Stade Yves-du-Manoir,"48.9293655788884, 2.24633026991092","{""coordinates"": [2.24633026991092, 48.9293655788884], ""type"": ""Point""}",Stade Yves-du-Manoir,Stade Yves-du-Manoir (YDM) - PFR-navettes
+Stade Yves-du-Manoir,"48.9257521972527, 2.24785538109127","{""coordinates"": [2.24785538109127, 48.9257521972527], ""type"": ""Point""}",Stade Yves-du-Manoir,Stade Yves-du-Manoir (YDM) - PMR-Parking
+Stade Yves-du-Manoir,"48.925603097701, 2.24734678821508","{""coordinates"": [2.24734678821508, 48.925603097701], ""type"": ""Point""}",Stade Yves-du-Manoir,Stade Yves-du-Manoir (YDM) - PMR-dépose-min
