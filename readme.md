@@ -20,4 +20,4 @@ Lancez Kelper et importer tous les sets de données. Le logiciel vous fournira u
 ## Aller plus loin
 Après un travail de clarification des données, nous sommes arrivé au résultat ci contre.
 
-![img.png](img.png)
+![image-presentation-readme.png](/assets/image-presentation-readme.png)
