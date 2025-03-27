@@ -1,0 +1,16 @@
+Nom du fichier csv,Données Challenge de la Data
+Date de création du fichier,2025-03-24
+Source,data.education.gouv.fr
+Période des données utilisées,JO2024
+,
+GEO_Shape,Forme géographique
+GEO_Lenght,Coordonnées de la forme géographique
+Destination,Terminus des l'itinéraires
+Origine,Point de départ des itinéraires
+"Services (feuille ""Liaisons rapides Paris sites extérieurs)","DDS04 : Aéroport Charles de Gaulle (CDG) → Village Olympique
+DDS27 : Centre de Presse Principal (IBC Saint-Denis) → Stade Roland Garros
+DDS : (Services Directs et Dédiés)
+SPS : (Navettes Publiques Spéciales)
+TA : (Transport des Athlètes)
+TC : (Transport du Personnel)
+TF : (Transport des Fédérations)"
